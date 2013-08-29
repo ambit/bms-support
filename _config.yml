@@ -1,3 +1,4 @@
+baseurl:              /bms-support/
 source:               .
 destination:          ./_site
 layouts:              ./_layouts
