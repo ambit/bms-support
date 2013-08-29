@@ -1,5 +1,6 @@
-source:      .
-destination: ./_site
-pygments: true
-relative_permalinks: false
-permalink: /news/:year/:month/:day/:title
+source:               .
+destination:          ./_site
+layouts:              ./_layouts
+pygments:             true
+relative_permalinks:  false
+permalink:            /news/:year/:month/:day/:title
