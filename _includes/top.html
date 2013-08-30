@@ -19,9 +19,11 @@
     $(document).ready(function() {
       var isInIframe = (window.location != window.parent.location) ? true : false;
       if (isInIframe) {
+        alert('In iFrame');
         $('a').click(function(e){
           e.preventDefault();
           var link = $(e).attr('href');
+          alert(link);
           link = link.substring(link.indexOf("bms-support/") + 12);
           alert(link);
         });
