@@ -14,4 +14,11 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/pygments.css" />
   <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.png" />
   <script src="{{ site.baseurl }}/js/modernizr-2.5.3.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      var parent = window.location.href;
+      parent = parent.substring(parent.indexOf("bms-support/") + 12);
+      alert(parent);
+    });
+  </script>
 </head>
