@@ -15,10 +15,13 @@
   <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.png" />
   <script src="{{ site.baseurl }}/js/modernizr-2.5.3.min.js"></script>
   <script>
-    $('a').click(function(e){
-      var link = $(e.target);
-      link = link.substring(link.indexOf("bms-support/") + 12);
-      alert(link);
+    $(document).ready(function() {
+      $('a').click(function(e){
+        e.preventDefault();
+        var link = $(e.target);
+        link = link.substring(link.indexOf("bms-support/") + 12);
+        alert(link);
+      });
     });
   </script>
 </head>
