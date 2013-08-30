@@ -15,10 +15,10 @@
   <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.png" />
   <script src="{{ site.baseurl }}/js/modernizr-2.5.3.min.js"></script>
   <script>
-    $(document).ready(function () {
-      var parent = window.location.href;
-      parent = parent.substring(parent.indexOf("bms-support/") + 12);
-      alert(parent);
+    $('a').click(function(e){
+      var link = $(e.target);
+      link = link.substring(link.indexOf("bms-support/") + 12);
+      alert(link);
     });
   </script>
 </head>
