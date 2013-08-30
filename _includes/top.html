@@ -21,7 +21,7 @@
       if (isInIframe) {
         $('a').click(function(e){
           e.preventDefault();
-          var link = $(e.target);
+          var link = $(e).attr('href');
           link = link.substring(link.indexOf("bms-support/") + 12);
           alert(link);
         });
