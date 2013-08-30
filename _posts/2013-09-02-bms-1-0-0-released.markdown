@@ -7,10 +7,11 @@ version: 1.0.0
 categories: [release]
 ---
 
-After many months of hard work by the team, we're excited
-to announce the first major release of the project in a long while. v1.0.0 is
-finally here! While the list of improvements and bug fixes is quite lengthy,
-here are the highlights:
+After many months of hard work by the team, we're excited to announce the first major release of BMS.
+
+v1.0.0 is finally here!
+
+While the list of improvements and bug fixes is quite lengthy, here are the highlights:
 
 General
 - Revised styling and responsive layout
