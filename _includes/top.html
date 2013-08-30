@@ -23,7 +23,7 @@
           e.preventDefault();
           var href = $('a').attr('href');
           alert(href);
-          link = href.substring(href.indexOf("bms-support/") + 12);
+          link = href.substring(0,(href.indexOf("bms-support/") + 12));
           alert(link);
         });
       }
