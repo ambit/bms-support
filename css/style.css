@@ -501,8 +501,8 @@ article {
 #leftPane h3 {
   width: 350px;
   margin: 0;
-  padding: 6px 15px 6px 15px;
-  font-size: 18px;
+  padding: 7px 15px 6px 15px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 24px;
   color: #888888;
@@ -513,8 +513,8 @@ article {
 }
 
 #leftPane h3 i {
-  width: 26px;
-  margin: 0px 8px 0px 0px;
+  width: 20px;
+  margin: 0px 5px 0px 0px;
   padding: 0 0 2px 0;
   line-height: 24px;
   font-size: 14px;
