@@ -7,11 +7,13 @@ layout: default
 
       {% include news_contents_mobile.html %}
 
-      <div class="unit four-fifths">
-        {{ content }}
-      </div>
-
       {% include news_contents.html %}
+      
+      <div id="rightPane">
+        {% include header.html %}
+        {{ content }}
+        {% include footer.html %}
+      </div>
 
       <div class="clear"></div>
 
