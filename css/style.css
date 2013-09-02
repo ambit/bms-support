@@ -29,6 +29,104 @@ body > header, body > section, body > footer {
   clear: both;
 }
 
+/* Left and right panes */
+
+#leftPane {
+  width: 350px;
+  height: 100%;
+  background: #fcfcfc;
+  -moz-box-shadow: -1px 0 4px 0px rgba(120, 120, 120, 0.1);
+  -webkit-box-shadow: -1px 0 4px 0px rgba(120, 120, 120, 0.1);
+  box-shadow: -1px 0 4px 0px rgba(120, 120, 120, 0.1);
+  border-right: 1px solid #d7d7d7;
+  position: absolute;
+  top: 0px;
+  overflow: hidden;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -moz-transition: margin 0.3s, width 0.2s, left 0.3s;
+  -webkit-transition: margin 0.3s, width 0.2s, left 0.3s;
+  transition: margin 0.3s, width 0.2s, left 0.3s;
+  z-index: 5;
+}
+
+#rightPane {
+  min-width: 500px;
+  height: 100%;
+  background: #ffffff;
+  position: absolute;
+  top: 0px;
+  overflow: hidden;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -moz-transition: margin 0.3s, width 0.2s, left 0.3s;
+  -webkit-transition: margin 0.3s, width 0.2s, left 0.3s;
+  transition: margin 0.3s, width 0.2s, left 0.3s;
+  z-index: 3;
+}
+
+@media (min-width: 1008px) {
+
+  #leftPane {
+    left: 40px;
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    -moz-transition: left 0.2s;
+    -webkit-transition: left 0.2s;
+    transition: left 0.2s;
+  }
+  
+  #rightPane {
+    left: 390px;
+    right: 0px;
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    -moz-transition: left 0.2s;
+    -webkit-transition: left 0.2s;
+    transition: left 0.2s;
+  }
+  
+}
+  
+@media (min-width: 697px) and (max-width: 1007px) {
+  
+  #leftPane {
+    width: 40px
+    left: 40px
+    -moz-transition: left 0.2s;
+    -webkit-transition: left 0.2s;
+    transition: left 0.2s;
+  }
+  
+  #rightPane {
+    min-width: 688px !important;
+    left: 80px;
+    right: 0px;
+    -moz-transition: left 0.2s;
+    -webkit-transition: left 0.2s;
+    transition: left 0.2s;
+  }
+  
+}
+
+@media (max-width: 696px) {
+  
+  #rightPane {
+    width: 100%;
+    min-width: 100%;
+    max-width: 767px
+    right: 0px
+    left: 0px
+    @include transition(left 0.2s)
+  }
+  
+}
+
+
 /* Header */
 
 body > header h1, body > header nav {
@@ -427,6 +525,7 @@ aside li.current a:before {
   left: -30px;
 }
 
+    
 /* Documentation */
 
 .docs article {
