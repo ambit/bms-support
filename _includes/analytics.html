@@ -1,9 +1,19 @@
 <script id="IntercomSettingsScriptTag">
+  function gup( name ){
+    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");  
+    var regexS = "[\\?&]"+name+"=([^&#]*)";  
+    var regex = new RegExp( regexS );  
+    var results = regex.exec( window.location.href ); 
+    if( results == null ) return "";  
+    else return results[1];
+  }
+  var paramEmail = gup( 'email' );
+  var paramCreated = gup( 'created' );
   window.intercomSettings = {
     // TODO: The current logged in user's email address.
-    email: "michael@@ambitdigital.com.au",
+    email: paramEmail,
     // TODO: The current logged in user's sign-up date as a Unix timestamp.
-    created_at: 1378095794,
+    created_at: paramCreated,
     "widget": {
       "activator": "#Intercom"
     },
