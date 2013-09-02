@@ -3,7 +3,7 @@ layout: docs
 title: Finding Contacts
 prev_section: filters-and-pagination
 next_section: updating-contact-information
-permalink: /docs/posts/
+permalink: /docs/finding-contacts/
 ---
 
 There are many ways to get to a contact – after all, contacts are at the centre of everything in BMS CRM. A contact is any business or person that is recorded in the CRM database.
