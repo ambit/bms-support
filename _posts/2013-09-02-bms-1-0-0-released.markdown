@@ -1,7 +1,7 @@
 ---
 layout: news_item
 title: "BMS 1.0.0 Released"
-date: "2013-09-02 10:00:00 +1000"
+date: "2013-09-02 11:00:00 +1000"
 author: ambit
 version: 1.0.0
 categories: [release]
@@ -9,9 +9,7 @@ categories: [release]
 
 After many months of hard work by the team, we're excited to announce the first major release of BMS.
 
-v1.0.0 is finally here!
-
-While the list of improvements and bug fixes is quite lengthy, here are the highlights:
+While the list of improvements and bug fixes from the CRM beta is quite lengthy, here are the highlights:
 
 General
 - Revised styling and responsive layout
