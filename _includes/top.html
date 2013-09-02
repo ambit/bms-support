@@ -22,6 +22,7 @@
       if (isInIframe) {
         $('a').click(function(e){
           if ($(this).attr("id") != "Intercom") {
+            alert("Not Intercom");
             e.preventDefault();
             var href = $(this).attr('href');
             // This removes /bms-support/ from the href, not necessary when on custom domain
