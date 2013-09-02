@@ -70,7 +70,7 @@ body > header, body > section, body > footer {
 @media (min-width: 1008px) {
 
   #leftPane {
-    left: 40px;
+    left: 0px;
     -moz-box-shadow: none !important;
     -webkit-box-shadow: none !important;
     box-shadow: none !important;
@@ -80,7 +80,7 @@ body > header, body > section, body > footer {
   }
   
   #rightPane {
-    left: 390px;
+    left: 350px;
     right: 0px;
     -moz-box-shadow: none !important;
     -webkit-box-shadow: none !important;
@@ -96,15 +96,15 @@ body > header, body > section, body > footer {
   
   #leftPane {
     width: 40px
-    left: 40px
+    left: 0px
     -moz-transition: left 0.2s;
     -webkit-transition: left 0.2s;
     transition: left 0.2s;
   }
   
   #rightPane {
-    min-width: 688px !important;
-    left: 80px;
+    min-width: 657px !important;
+    left: 40px;
     right: 0px;
     -moz-transition: left 0.2s;
     -webkit-transition: left 0.2s;
@@ -118,10 +118,12 @@ body > header, body > section, body > footer {
   #rightPane {
     width: 100%;
     min-width: 100%;
-    max-width: 767px
-    right: 0px
-    left: 0px
-    @include transition(left 0.2s)
+    max-width: 696px;
+    right: 0px;
+    left: 0px;
+    -moz-transition: left 0.2s;
+    -webkit-transition: left 0.2s;
+    transition: left 0.2s;
   }
   
 }
