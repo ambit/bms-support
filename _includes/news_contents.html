@@ -1,5 +1,6 @@
 <div id="leftPane" class="hide-on-mobiles">
   <aside>
+    <h2>Help Centre</h2>
     <ul>
       <li class="{% if page.title == 'News' %}current{% endif %}">
         <a href="/news/">All News</a>
@@ -8,7 +9,7 @@
         <a href="/news/releases/">BMS Releases</a>
       </li>
     </ul>
-    <h4>Recent Releases</h4>
+    <h3>Recent Releases</h3>
     <ul>
       {% for post in site.posts limit:5 %}
       <li class="{% if page.title == post.title %}current{% endif %}">
