@@ -12,21 +12,17 @@ Whilst in the [News]({{ site.baseurl }}/news/) section, we have information on a
 
 ## So what is BMS, exactly?
 
-BMS is essentially enterprise resource planning (ERP) software for the modern, customer-adaptive enterprise.
+BMS is essentially enterprise resource planning (ERP) software for the modern, [customer-adaptive enterprise](http://ovum.com/2013/04/05/ovum-industry-congress-to-provide-overview-of-the-customer-adaptive-enterprise/). 
 
-At its simplest, the [customer-adaptive enterprise](http://ovum.com/2013/04/05/ovum-industry-congress-to-provide-overview-of-the-customer-adaptive-enterprise/) is able to know earlier, act and adapt faster, and deliver greater value to its customers. It acts in concert with and evolves to meet the changing needs, expectations, and behaviours of its customers.  A customer-adaptive enterprise in turn requires software applications that work seamlessly together to enable anyone in contact with the customer to deliver context-aware, relevant information. 
-
-BMS maintains a 'single source of truth' for a businesses valuable customer data, empowering employees with increased visibility, for faster and smarter decision making.
+BMS maintains a 'single source of truth' for your valuable customer data, empowering employees with increased visibility, for faster and smarter decision making.
 
 The software is configured as a hosted Software-as-a-Service (SaaS) solution to take advantage of the redundancy, scalability and efficiency inherent in managed, cloud based software. It is also optimised to work seamlessly across all manner of device sizes (Desktop, Tablet, Mobile) via responsive design principles.
 
-BMS features core modules for Customer Relationship Management (CRM), Billing and Revenue Management (BRM), Supply Chain Management (SCM) and Service Lifecycle Management (SLM). We believe that our core modules add great value to a customer-adaptive enterprise when combined in the one application. A single customer file, tracking all interactions, for consolidated work-flow and reporting.
+BMS features core modules for Customer Relationship Management (CRM), Billing and Revenue Management (BRM), Supply Chain Management (SCM) and Service Lifecycle Management (SLM). We believe that our core modules add great value when combined in the one application - a single customer file, tracking all interactions, for consolidated work-flow and reporting.
 
 Extensions and Integrations provide powerful new features and services to enhance the BMS core modules. In-built flexibility allows for further individual customisation, with a number of industry solutions available to enable customisation at a lower total cost of ownership.
 
-Developing business software for the customer-adaptive enterprise means we don't focus on the 'internal' software for Accounting and Payroll (seen in typical ERP software) and instead deliver just the complementary 'external' modules dealing directly with customers. Accounting and Payroll are well served by existing vendors (such as Xero and Workday) and we therefore have direct integrations with popular vendors to complete our customer's ERP solutions.
-
-Small businesses typically start with Accounting software, then look to upgrade to ERP software as they develop a need to consolidate disparate business processes. With BMS, we are looking to fill that gap in the small to mid-market by offering an ERP solution for the customer-adaptive enterprise that integrates seamlessly with Accounting and Payroll solutions already in place. Growing businesses get a modern, responsive ERP solution at a fraction of the price, in a fraction of the time.
+Developing business software for the customer-adaptive enterprise means we don't focus on the 'internal' management software for Accounting and Payroll (seen in typical ERP software) and instead deliver just the complementary 'external' modules dealing directly with customers. Accounting and Payroll are well served by existing vendors (such as Xero and Workday) and we therefore have direct integrations with popular vendors to complete our customer's ERP solutions.
 
 More information can be found at [bmserp.com](http://bmserp.com)
 
