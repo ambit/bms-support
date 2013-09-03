@@ -233,7 +233,8 @@ body {
 
 .innerContent {
   min-height: 300px;
-  margin: 8px 8px;
+  margin: 8px;
+  display: inline-block;
 }
 
 
@@ -264,7 +265,8 @@ nav li {
 }
 
 .main-nav li a {
-  padding: 0 20px 2px;
+  height: 38px;
+  padding: 0 20px;
   text-align: center;
   line-height: 36px;
   color: #999999;
@@ -277,13 +279,11 @@ nav li {
 }
 
 .main-nav li:hover a {
-  padding-bottom: 1px;
   color: #626262;
   border-bottom: 2px solid #3177cc;
 }
 
 .main-nav li.current a, .main-nav li.current:hover a {
-  padding-bottom: 1px;
   color: #626262;
   border-bottom: 2px solid #e53c3d;
 }
@@ -559,7 +559,7 @@ pre, code {
 /* HTML Elements */
 
 h1 {
-  margin: .6em 0 .4em 0;
+  margin: .4em 0;
   color: #626262;
   font-weight: 400;
 }
