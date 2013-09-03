@@ -342,10 +342,6 @@ nav li {
   min-height: 800px;
 }
 
-.docs .content {
-  padding: 0;
-}
-
 .section-nav {
   text-align: center;
   padding-top: 40px;
@@ -554,11 +550,17 @@ pre, code {
 /* HTML Elements */
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0;
+  margin: 1em 0;
+  color: #626262;
+}
+
+h5, h6 {
+  font-size: 1em;
+  font-style: italic;
 }
 
 a {
-  color: #fc0;
+  color: #3177cc;
   text-decoration: none;
   transition: all .25s;
    -moz-transition: all .25s;
@@ -566,7 +568,7 @@ a {
 }
 
 a:hover {
-  color: #f90;
+  text-decoration: underline;
 }
 
 strong {
@@ -575,6 +577,8 @@ strong {
 
 p {
   line-height: 1.5em;
+  color: #626262;
+  font-size: 16px;
 }
 
 .left { float: left; }
@@ -584,23 +588,6 @@ p {
 .align-center { text-align: center; }
 
 /* Article HTML */
-
-article h2,
-article h3,
-article h4,
-article h5,
-article h6 {
-  margin: 1em 0;
-}
-
-article h4 {
-  color: #fff;
-}
-
-h5, h6 {
-  font-size: 1em;
-  font-style: italic;
-}
 
 article ul li p {
   margin: 0;
