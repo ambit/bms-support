@@ -20,7 +20,7 @@ BMS features core modules for Customer Relationship Management (CRM), Billing an
 
 Extensions and Integrations provide powerful new features and services to enhance the BMS core modules. In-built flexibility allows for further individual customisation, with a number of industry solutions available to provide customisation at a lower total cost of ownership.
 
-Developing business software for the customer-adaptive enterprise means we don't focus on the 'internal' management software for Accounting and Payroll (seen in typical ERP software) and instead deliver just the complementary 'external' modules dealing directly with customers. Accounting and Payroll are well served by existing vendors (such as Xero and Workday) and we therefore offer direct integrations with popular vendors to complete our customer's ERP solutions.
+Developing business software for the customer-adaptive enterprise means we don't focus on the 'internal' management software for Accounting and Payroll (seen in typical ERP software) and instead deliver just the complementary 'external' modules dealing directly with customers. Accounting and Payroll are well served by existing vendors (such as <a class="noRedirect" href="http://www.xero.com/" target="_blank">Xero</a> and <a class="noRedirect" href="http://www.workday.com/" target="_blank">Workday</a>) and we therefore offer direct integrations with popular vendors to complete our customer's ERP solutions.
 
 More information can be found at <a class="noRedirect" href="http://bmserp.com" target="_blank">bmserp.com</a>
 
