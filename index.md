@@ -30,16 +30,19 @@ information that can make using Jekyll easier, more interesting, and less
 hazardous. Here’s what to look out for.
 
 <div class="note">
-  <h5 class="icon-exclamation-sign pull-left">ProTips help you get more from BMS</h5>
+  <span class="icon-exclamation-sign icon-large">&nbsp;</span>
+  <h5>ProTips help you get more from BMS</h5>
   <p>These are tips and tricks that will help you be a BMS wizard!</p>
 </div>
 
 <div class="note info">
-  <h5><span class="icon-exclamation-sign pull-left">&nbsp;</span>Notes are handy pieces of information</h5>
+  <span class="icon-exclamation-sign icon-large">&nbsp;</span>
+  <h5>Notes are handy pieces of information</h5>
   <p>These are for the extra tidbits sometimes necessary to understand BMS.</p>
 </div>
 
-<div class="note warning icon-exclamation-sign">
+<div class="note warning">
+  <span class="icon-exclamation-sign icon-large">&nbsp;</span>
   <h5>Warnings help you not blow things up</h5>
   <p>Be aware of these messages if you wish to avoid certain death.</p>
 </div>

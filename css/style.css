@@ -715,6 +715,7 @@ code.option, code.flag, code.filter, code.output {
 .note {
   width: 100%;
   margin: .6em 0 .8em 0;
+  padding: 10px 5px 5px 0px;
   color: #626262;
   text-shadow: -1px -1px 0 #d2d2d2, 1px -1px 0 #d2d2d2, -1px 1px 0 #d2d2d2, 1px 1px 0 #d2d2d2;
   background: #cdcdcd;
@@ -727,6 +728,7 @@ code.option, code.flag, code.filter, code.output {
 
 .note h5, .note p {
   margin: 0;
+  padding: 0 0 4px 40px;
   line-height: 18px;
   font-size: 14px;
 }
@@ -735,11 +737,17 @@ code.option, code.flag, code.filter, code.output {
   font-weight: 700;
 }
 
+.note span {
+  position: absolute;
+  top: 12px;
+  left: 15px;
+}
+
 .info {
   background: #b3cded;
 }
 
-.info i, .info p, .info h5 {
+.info span, .info p, .info h5 {
   color: #275fa3;
   text-shadow: -1px -1px 0 #bcd3ef, 1px -1px 0 #bcd3ef, -1px 1px 0 #bcd3ef, 1px 1px 0 #bcd3ef;
 }
@@ -748,7 +756,7 @@ code.option, code.flag, code.filter, code.output {
   background: #f8cccc;
 }
 
-.warning i, .warning p, .warning h5 {
+.warning span, .warning p, .warning h5 {
   color: #d21c1d;
   text-shadow: -1px -1px 0 #f9d5d5, 1px -1px 0 #f9d5d5, -1px 1px 0 #f9d5d5, 1px 1px 0 #f9d5d5;
 }
