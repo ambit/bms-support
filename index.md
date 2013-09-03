@@ -31,21 +31,20 @@ hazardous. Here’s what to look out for.
 
 <div class="note">
   <i class="icon-exclamation-sign pull-left"></i>
-  <h5>ProTips help you get more from BMS</h5>
-  <p>These are tips and tricks that will help you be a BMS wizard!</p>
+  ##### ProTips help you get more from BMS
+  These are tips and tricks that will help you be a BMS wizard!
 </div>
 
 <div class="note info">
   <i class="icon-exclamation-sign pull-left"></i>
-  <h5>Notes are handy pieces of information</h5>
-  <p>These are for the extra tidbits sometimes necessary to understand
-     BMS.</p>
+  ##### Notes are handy pieces of information
+  These are for the extra tidbits sometimes necessary to understand BMS.
 </div>
 
 <div class="note warning">
   <i class="icon-exclamation-sign pull-left"></i>
-  <h5>Warnings help you not blow things up</h5>
-  <p>Be aware of these messages if you wish to avoid certain death.</p>
+  ##### Warnings help you not blow things up
+  Be aware of these messages if you wish to avoid certain death.
 </div>
 
 If you come across anything along the way that we haven’t covered, or if you
