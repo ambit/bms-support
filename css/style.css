@@ -845,3 +845,24 @@ code.option, code.flag, code.filter, code.output {
     padding: 0 10px;
   }
 }
+
+.show-on-mobiles {
+  display: none;
+}
+
+/* Responsive Stuff */
+@media screen and (max-width: 568px) {
+
+  .center-on-mobiles {
+    text-align: center !important;
+  }
+  .hide-on-mobiles {
+    display: none !important;
+  }
+  .show-on-mobiles {
+    display: block !important;
+  }
+  a .show-on-mobiles {
+    display: inline !important;
+  }
+}
