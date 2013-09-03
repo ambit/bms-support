@@ -4,7 +4,7 @@ title: Welcome
 overview: true
 ---
 
-This site aims to be a comprehensive guide to BMS. In [Documentation](/docs/finding-contacts/), we’ll cover topics that help you navigate through BMS, as well as various ways BMS can help you work more efficiently. Whilst in the [News](/news/) section, we have information on all the latest software releases that enhance and improve on BMS.
+This site aims to be a comprehensive guide to BMS. In [Documentation](../docs/finding-contacts/), we’ll cover topics that will help you navigate through BMS, as well as various ways to use the software more efficiently. Whilst in the [News](../news/) section, we have information on all the latest software releases to enhance and improve on BMS.
 
 ## So what is Jekyll, exactly?
 
