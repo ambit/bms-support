@@ -97,8 +97,9 @@ body > header, body > section, body > footer {
   #leftPane {
     width: 40px
     left: 0px
-    -moz-transition: left 0.2s;
     -webkit-transition: left 0.2s;
+    -moz-transition: left 0.2s;
+    -o-transition: left 0.2s;
     transition: left 0.2s;
   }
   
@@ -106,8 +107,9 @@ body > header, body > section, body > footer {
     min-width: 657px !important;
     left: 40px;
     right: 0px;
-    -moz-transition: left 0.2s;
     -webkit-transition: left 0.2s;
+    -moz-transition: left 0.2s;
+    -o-transition: left 0.2s;
     transition: left 0.2s;
   }
   
@@ -128,6 +130,30 @@ body > header, body > section, body > footer {
   
 }
 
+#contentScroller {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  overflow: auto;
+}
+
+.contentWidget {
+  min-height: 30px;
+  margin: 8px 8px 0;
+  color: #666666;
+  -webkit-transition: left 0.2s, right 0.2s, padding 0.2s;
+  -moz-transition: left 0.2s, right 0.2s, padding 0.2s;
+  -o-transition: left 0.2s, right 0.2s, padding 0.2s;
+  transition: left 0.2s, right 0.2s, padding 0.2s;
+}
+
+.innerContent {
+  min-height: 300px;
+  margin: 8px 8px;
+  overflow-x: hidden;
+}
 
 /* Header */
 
@@ -395,61 +421,7 @@ body > footer a:hover img {
   color: #888;
 }
 
-/* Free Hosting */
 
-.free-hosting .pane {
-  background: #444;
-  border-radius: 10px;
-  text-shadow: none;
-  position: relative;
-  padding: 0 20px 30px;
-}
-
-.free-hosting img {
-  margin: -30px 0 0;
-  width: 180px;
-  height: 150px;
-}
-
-.free-hosting h2 {
-  font-size: 28px;
-}
-
-.free-hosting p,
-.free-hosting a {
-  font-size: 16px;
-}
-
-.free-hosting p {
-  margin: .75em 0;
-}
-
-@media (min-width: 768px){
-  .free-hosting img {
-    float: left;
-    margin: -20px -30px -30px -50px;
-    width: 300px;
-    height: 251px;
-  }
-  .free-hosting .pane-content {
-    margin-top: 35px;
-    padding-right: 30px;
-  }
-  .free-hosting p,
-  .free-hosting a {
-    font-size: 18px;
-  }
-  .free-hosting .pane:after {
-    content: " ";
-    float: right;
-    background: url(../img/footer-arrow.png) top left no-repeat;
-    width: 73px;
-    height: 186px;
-    position: absolute;
-    right: 0;
-    bottom: -30px;
-  }
-}
 
 /* Article - Used for both docs and news */
 
