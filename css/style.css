@@ -716,14 +716,15 @@ code.option, code.flag, code.filter, code.output {
   width: 100%;
   margin: .6em 0 .8em 0;
   padding: 10px 5px 5px 0px;
-  color: #626262;
-  text-shadow: -1px -1px 0 #d2d2d2, 1px -1px 0 #d2d2d2, -1px 1px 0 #d2d2d2, 1px 1px 0 #d2d2d2;
-  background: #cdcdcd;
+  color: #e17807;
+  text-shadow: -1px -1px 0 #fde5cb, 1px -1px 0 #fde5cb, -1px 1px 0 #fde5cb, 1px 1px 0 #fde5cb;
+  background: #fde0c1;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
   border-radius: 3px;
+  position: relative;
 }
 
 .note h5, .note p {
@@ -739,8 +740,8 @@ code.option, code.flag, code.filter, code.output {
 
 .note span {
   position: absolute;
-  top: 12px;
-  left: 15px;
+  top: 11px;
+  left: 11px;
 }
 
 .info {
