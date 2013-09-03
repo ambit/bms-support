@@ -714,7 +714,7 @@ code.option, code.flag, code.filter, code.output {
 
 .note {
   width: 100%;
-  margin: 0;
+  margin: .6em 0 .8em 0;
   color: #626262;
   text-shadow: -1px -1px 0 #d2d2d2, 1px -1px 0 #d2d2d2, -1px 1px 0 #d2d2d2, 1px 1px 0 #d2d2d2;
   background: #cdcdcd;
@@ -723,18 +723,6 @@ code.option, code.flag, code.filter, code.output {
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
   border-radius: 3px;
-}
-
-.info {
-  color: #275fa3;
-  text-shadow: -1px -1px 0 #bcd3ef, 1px -1px 0 #bcd3ef, -1px 1px 0 #bcd3ef, 1px 1px 0 #bcd3ef;
-  background: #b3cded;
-}
-
-.warning {
-  color: #d21c1d;
-  text-shadow: -1px -1px 0 #f9d5d5, 1px -1px 0 #f9d5d5, -1px 1px 0 #f9d5d5, 1px 1px 0 #f9d5d5;
-  background: #f8cccc;
 }
 
 .note h5, .note p {
@@ -748,8 +736,22 @@ code.option, code.flag, code.filter, code.output {
   font-weight: 700;
 }
 
-.note p:before {
-  content: "<i class="icon-exclamation-sign prepend-icon"></i>";
+.info {
+  background: #b3cded;
+}
+
+.info i, .info p, .info h5 {
+  color: #275fa3;
+  text-shadow: -1px -1px 0 #bcd3ef, 1px -1px 0 #bcd3ef, -1px 1px 0 #bcd3ef, 1px 1px 0 #bcd3ef;
+}
+
+.warning {
+  background: #f8cccc;
+}
+
+.warning i, .warning p, .warning h5 {
+  color: #d21c1d;
+  text-shadow: -1px -1px 0 #f9d5d5, 1px -1px 0 #f9d5d5, -1px 1px 0 #f9d5d5, 1px 1px 0 #f9d5d5;
 }
 
 /* Responsive tables */
