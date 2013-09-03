@@ -4,7 +4,7 @@ title: Welcome
 overview: true
 ---
 
-The aim of the Help Centre is to be a comprehensive guide to BMS.
+The aim of the Help Centre is to be a comprehensive guide to your Business Management Software (BMS).
 
 In [Documentation]({{ site.baseurl }}/docs/finding-contacts/), we cover topics that will help you navigate through BMS, as well as various ways to use the software more efficiently.
 
