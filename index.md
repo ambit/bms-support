@@ -4,9 +4,13 @@ title: Welcome
 overview: true
 ---
 
-This site aims to be a comprehensive guide to BMS. In [Documentation](../docs/finding-contacts/), we’ll cover topics that will help you navigate through BMS, as well as various ways to use the software more efficiently. Whilst in the [News](../news/) section, we have information on all the latest software releases to enhance and improve on BMS.
+This site aims to be a comprehensive guide to BMS.
 
-## So what is Jekyll, exactly?
+In [Documentation](../docs/finding-contacts/), we’ll cover topics that will help you navigate through BMS, as well as various ways to use the software more efficiently.
+
+Whilst in the [News](../news/) section, we have information on all the latest software releases to enhance and improve on BMS.
+
+## So what is BMS, exactly?
 
 Jekyll is a simple, blog-aware, static site generator. It takes a template
 directory containing raw text files in various formats, runs it through
@@ -42,6 +46,5 @@ hazardous. Here’s what to look out for.
 </div>
 
 If you come across anything along the way that we haven’t covered, or if you
-know of a tip you think others would find handy, please [file an
-issue](https://github.com/mojombo/jekyll/issues/new) and we’ll see about
+know of a tip you think others would find handy, please <a id="Intercom" class="noRedirect" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">get in touch</a> and we’ll see about
 including it in this guide.
