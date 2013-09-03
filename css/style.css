@@ -713,7 +713,7 @@ code.option, code.flag, code.filter, code.output {
 /* Note types */
 
 .note {
-  width: auto;
+  width: 100%;
   margin: 0;
   color: #626262;
   text-shadow: -1px -1px 0 #d2d2d2, 1px -1px 0 #d2d2d2, -1px 1px 0 #d2d2d2, 1px 1px 0 #d2d2d2;
