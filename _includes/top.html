@@ -22,7 +22,7 @@
             e.preventDefault();
             var href = $(this).attr('href');
             // This removes /bms-support/ from the href, not necessary when on custom domain
-            var link = href.substring(href.indexOf("/bms-support/") + 13);
+            // var link = href.substring(href.indexOf("/bms-support/") + 13);
             var url = (window.location != window.parent.location) ? document.referrer: document.location;
             link = (url.split("?")[0]) + "?" + link;
             window.parent.postMessage(link, '*');
