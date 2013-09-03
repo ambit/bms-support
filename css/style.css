@@ -728,7 +728,6 @@ code.option, code.flag, code.filter, code.output {
 .note h5, .note p {
   margin: 0;
   line-height: 18px;
-  font-weight: 700;
   font-size: 14px;
 }
 
