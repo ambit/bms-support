@@ -14,9 +14,7 @@ Whilst in the [News]({{ site.baseurl }}/news/) section, we have information on a
 
 BMS is essentially enterprise resource planning (ERP) software for the modern, [customer-adaptive enterprise](http://ovum.com/2013/04/05/ovum-industry-congress-to-provide-overview-of-the-customer-adaptive-enterprise/). 
 
-BMS maintains a 'single source of truth' for your valuable customer data, empowering employees with increased visibility, for faster and smarter decision making.
-
-The software is configured as a hosted Software-as-a-Service (SaaS) solution to take advantage of the redundancy, scalability and efficiency inherent in managed, cloud based software. It is also optimised to work seamlessly across all manner of device sizes (Desktop, Tablet, Mobile) via responsive design principles.
+The software maintains a 'single source of truth' for your valuable customer data, empowering employees with increased visibility, for faster and smarter decision making. It's configured as a hosted Software-as-a-Service (SaaS) solution to take advantage of the redundancy, scalability and efficiency inherent in managed, cloud based software. The interface is optimised to work seamlessly across all manner of device sizes (Desktop, Tablet, Mobile) via responsive design principles.
 
 BMS features core modules for Customer Relationship Management (CRM), Billing and Revenue Management (BRM), Supply Chain Management (SCM) and Service Lifecycle Management (SLM). We believe that our core modules add great value when combined in the one application - a single customer file, tracking all interactions, for consolidated work-flow and reporting.
 
