@@ -234,7 +234,6 @@ body {
 .innerContent {
   min-height: 300px;
   margin: 8px 8px;
-  overflow-x: hidden;
 }
 
 
