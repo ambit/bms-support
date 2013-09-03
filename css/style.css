@@ -716,7 +716,6 @@ code.option, code.flag, code.filter, code.output {
   width: 100%;
   margin: .6em 0 .8em 0;
   padding: 10px 5px 5px 0px;
-  color: #e17807;
   text-shadow: -1px -1px 0 #fde5cb, 1px -1px 0 #fde5cb, -1px 1px 0 #fde5cb, 1px 1px 0 #fde5cb;
   background: #fde0c1;
   -webkit-border-radius: 3px;
@@ -732,6 +731,7 @@ code.option, code.flag, code.filter, code.output {
   padding: 0 0 4px 40px;
   line-height: 18px;
   font-size: 14px;
+  color: #e17807;
 }
 
 .note h5 {
@@ -739,6 +739,7 @@ code.option, code.flag, code.filter, code.output {
 }
 
 .note span {
+  color: #e17807;
   position: absolute;
   top: 11px;
   left: 11px;
