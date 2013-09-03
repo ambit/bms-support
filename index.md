@@ -6,9 +6,9 @@ overview: true
 
 The aim of the Help Centre is to be a comprehensive guide to BMS.
 
-In [Documentation](../docs/finding-contacts/), we cover topics that will help you navigate through BMS, as well as various ways to use the software more efficiently.
+In [Documentation]({{ site.baseurl }}/docs/finding-contacts/), we cover topics that will help you navigate through BMS, as well as various ways to use the software more efficiently.
 
-Whilst in the [News](../news/) section, we have information on all the latest software releases to enhance and improve on BMS.
+Whilst in the [News]({{ site.baseurl }}/news/) section, we have information on all the latest software releases to enhance and improve on BMS.
 
 ## So what is BMS, exactly?
 
