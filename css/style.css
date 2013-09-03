@@ -1,13 +1,23 @@
 /* Base */
 
 * {
-  box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-html { font-size: 14px; font-family: 'Roboto Condensed', sans-serif; font-weight: 400; text-rendering: optimizelegibility; }
-body { min-width: 980px; line-height: 1.4; font-size: 1em; background: #ffffff; }
+html {
+  font-size: 14px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
+}
+
+body {
+  min-width: 980px;
+  line-height: 1.4;
+  font-size: 1em;
+  background: #ffffff;
+}
 
 .clear {
   display: block;
@@ -21,15 +31,7 @@ body { min-width: 980px; line-height: 1.4; font-size: 1em; background: #ffffff; 
   visibility: hidden;
 }
 
-/* Sections */
-
-body > header, body > section, body > footer {
-  float: left;
-  width: 100%;
-  clear: both;
-}
-
-/* Left and right panes */
+/* Left and Right Panes */
 
 #leftPane {
   width: 350px;
@@ -129,6 +131,8 @@ body > header, body > section, body > footer {
   }
   
 }
+
+/* Right Pane Content */
 
 #contentScroller {
   position: absolute;
