@@ -6,7 +6,7 @@ overview: true
 
 The aim of this Help Centre is to be a comprehensive guide to your Business Management Software (BMS).
 
-In [Documentation]({{ site.baseurl }}/docs/finding-contacts/), we cover topics that will help you navigate through BMS, as well as various ways to use the software more efficiently.
+In [Documentation]({{ site.baseurl }}/docs/core-logging-in-and-out/), we cover topics that will help you navigate through BMS, as well as various ways to use the software more efficiently.
 
 Whilst in the [News]({{ site.baseurl }}/news/) section, we have information on all the latest software releases.
 
