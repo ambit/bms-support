@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Finding Contacts
-prev_section: filters-and-pagination
-next_section: updating-contact-information
-permalink: /docs/finding-contacts/
+title: Changing Your details
+prev_section: core-logging-in-and-out
+next_section: core-navigation-and-search
+permalink: /docs/core-changing-your-details/
 ---
 
 A contact is any business or person that is recorded in the CRM database.
