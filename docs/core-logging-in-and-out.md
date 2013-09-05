@@ -7,7 +7,7 @@ permalink: /docs/core-logging-in-and-out/
 
 ## Login
 
-To login to BMS Cloud, navigate to the URL provided by your BMS administrator. Typically the URL could appear as:
+To login to BMS, navigate to the URL provided by your BMS administrator. Typically the URL could appear as:
 
 http://yourcompany.bmserp.com
 
@@ -19,14 +19,24 @@ http://bms.yourcompanywebaddress.com
   <p>Contact <a id="Intercom" class="noRedirect" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">support</a> or your BMS administrator</p>
 </div>
 
-After navigating to BMS Cloud, assuming you haven't logged in previously, you should find yourself at the Login screen. Here you just need to enter your email address and password, then select Login.
+After navigating to BMS in your browser, assuming you're not already logged in, you should find yourself at the login screen.
+
+Here you just need to enter your email address and password, then press 'Login'.
+
+<div class="note">
+  <span class="icon-star icon-large">&nbsp;</span>
+  <h5>Be sure to bookmark the login page in your browser favourites</h5>
+</div>
+
 
 ## I don't know my login credentials
 
-If you've forgotten or have not received these credentials, but you beleive you've been registered with BMS, you should select Forgot Password then enter your email address and press Submit. Your credentials (if they exist) will be sent to the linked email address.
+If you've forgotten or have not received these credentials, but you beleive you've been registered with BMS, you should select 'Forgot Password' then enter your email address and press 'Submit'.
 
-If you are unsure of any of this, contact your BMS administrator.
+Your credentials (if they exist) will be sent to the linked email address.
 
 ## Logout
 
-Once logged in to BMS Cloud, you can log out by selecting your the account icon in the bottom left of the menu bar, then selecting Logout. Once logged out, you will be redirected to the Login screen.
+Once logged in to BMS, you can logout by selecting your the account icon in the bottom left of the menu bar, then select 'Logout' in the submenu.
+
+Once logged out, you will be redirected to the login screen.
