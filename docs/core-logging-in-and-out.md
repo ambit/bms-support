@@ -34,6 +34,6 @@ Your credentials (if they exist) will be sent to the linked email address.
 
 ## Logging out
 
-Once logged in to BMS, you can logout by selecting your the account icon in the bottom left of the menu bar, then selecting 'Logout' in the submenu.
+Once logged in to BMS, you can logout by selecting the account icon in the bottom left of the menu bar, then selecting 'Logout' in the submenu.
 
 Once logged out, you will be redirected to the login screen.
