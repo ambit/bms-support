@@ -5,7 +5,7 @@ next_section: core-changing-your-details
 permalink: /docs/core-logging-in-and-out/
 ---
 
-## Login
+## Logging in
 
 To login to BMS, navigate to the URL provided by your BMS administrator. Typically the URL could appear as:
 
@@ -33,7 +33,7 @@ If you've forgotten or have not received these credentials, but you beleive you'
 
 Your credentials (if they exist) will be sent to the linked email address.
 
-## Logout
+## Logging out
 
 Once logged in to BMS, you can logout by selecting your the account icon in the bottom left of the menu bar, then selecting 'Logout' in the submenu.
 
