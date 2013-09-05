@@ -13,9 +13,9 @@ When viewing lists of items in BMS, keep in mind that many of them are filtered.
 * Some lists are automatically filtered to present you with the most relevant information. For example - Tasks in BMS CRM are automatically filtered to show only the tasks that are assigned to you.
 * If you have previously filtered a list, when you come back to it the same filter will still be applied – BMS will remember your filters.
 
-In the tool bar at the top of the list, an unfiltered list will appear like this: <Screen>
+In the tool bar at the top of the list, an unfiltered list will appear like this:
 
-If the list is filtered, the text reads more like: <Screen>
+If the list is filtered, the text reads more like:
 
 Alternatively you can click on the Filter button to bring up the filter form. The fields here will show the configuration of the current filter.
 
