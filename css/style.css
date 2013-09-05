@@ -550,6 +550,8 @@ article ul li p {
 article ul li, article ol li {
   line-height: 1.5em;
   margin-bottom: 0.5em;
+  color: #626262;
+  font-size: 14px;
 }
 
 article ul li blockquote {
