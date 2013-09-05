@@ -24,7 +24,7 @@ The contacts submenu includes shortcuts to the full contact list, as well as a n
 
 At the top of your display you will find BMS Search. When you are accessing the CRM Module, BMS Search will return Contacts matching your search term. The best method is to search by contact name, however other fields such as postcode or address will work.
 
-## Next and Previous Buttons
+## Previous and Next Buttons
 
 When viewing a Contact, you can navigate to the next or previous contacts (relative the contact list) by clicking on the Next Contact or Prev Contact buttons in the contact's Summary Pane. This will take you to the next/previous sequential contact in the contact list.
 

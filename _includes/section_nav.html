@@ -3,24 +3,24 @@
     {% if page.prev_section != null %}
       <a href="{{ site.baseurl }}/docs/{{ page.prev_section }}/" class="prev">
         <i class="icon-arrow-left"></i>
-        Previous Article
+        Prev Document
       </a>
     {% else %}
       <span class="prev disabled">
         <i class="icon-arrow-left"></i>
-        Previous Article
+        Prev Document
       </span>
     {% endif %}
   </div>
   <div class="right align-left">
     {% if page.next_section != null %}
       <a href="{{ site.baseurl }}/docs/{{ page.next_section }}/" class="next">
-        Next Article
+        Next Document
         <i class="icon-arrow-right"></i>
       </a>
     {% else %}
       <span class="next disabled">
-        Next Article
+        Next Document
         <i class="icon-arrow-right"></i>
       </span>
     {% endif %}
