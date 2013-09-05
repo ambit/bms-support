@@ -15,14 +15,14 @@ http://bms.yourcompanywebaddress.com
 
 <div class="note info">
   <span class="icon-quote-left icon-large">&nbsp;</span>
-  <h5>For further details on accessing your environment contact <a id="Intercom" class="noRedirect" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">support</a> or your BMS administrator</h5>
+  <h5>For further details on accessing your environment contact <a id="Intercom" class="noRedirect" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">support</a> or your BMS administrator.</h5>
 </div>
 
 After navigating to BMS in your browser, assuming you're not already logged in, you should find yourself at the login screen. Here you just need to enter your email address and password, then press 'Login'.
 
 <div class="note">
   <span class="icon-star icon-large">&nbsp;</span>
-  <h5>Be sure to bookmark the login page in your browser favourites</h5>
+  <h5>For easy access, be sure to bookmark the login page in your browser favourites.</h5>
 </div>
 
 
