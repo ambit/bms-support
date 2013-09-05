@@ -5,34 +5,28 @@ next_section: core-changing-your-details
 permalink: /docs/core-logging-in-and-out/
 ---
 
-A contact is any business or person that is recorded in the CRM database.
+## Login
 
-In this section, we'll go through a couple of the most common ways of navigating to a specific contact.
+To login to BMS Cloud, navigate to the URL provided by your BMS administrator. Typically the URL could appear as:
 
-By clicking on the contacts icon in the navigation menu, the contacts submenu will appear. From here you can choose to search for a contact, add a new contact, or view the contact list.
+http://yourcompany.bmserp.com
 
-## The Contact List
+http://bms.yourcompanywebaddress.com
 
-The contact list is an index of all the contacts in the system. By clicking on an item in the index you will be directed to the details page for that contact.
+<div class="note info">
+  <span class="icon-quote-left icon-large">&nbsp;</span>
+  <h5>For further details on accessing your environment</h5>
+  <p>Contact <a id="Intercom" class="noRedirect" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">support</a> or your BMS administrator</p>
+</div>
 
-As this list can be very large, you will probably want to use the filter to narrow it down a bit. See [Filters and Pagination](../filters-and-pagination/) for more information.
+After navigating to BMS Cloud, assuming you haven't logged in previously, you should find yourself at the Login screen. Here you just need to enter your email address and password, then select Login.
 
-The contacts submenu includes shortcuts to the full contact list, as well as a number of saved filters.
+## I don't know my login credentials
 
-## The Search Bar
+If you've forgotten or have not received these credentials, but you beleive you've been registered with BMS, you should select Forgot Password then enter your email address and press Submit. Your credentials (if they exist) will be sent to the linked email address.
 
-At the top of your display you will find BMS Search. When you are accessing the CRM Module, BMS Search will return Contacts matching your search term. The best method is to search by contact name, however other fields such as postcode or address will work.
+If you are unsure of any of this, contact your BMS administrator.
 
-## Next and Previous Buttons
+## Logout
 
-When viewing a Contact, you can navigate to the next or previous contacts (relative the contact list) by clicking on the Next Contact or Prev Contact buttons in the contact's Summary Pane. This will take you to the next/previous sequential contact in the contact list.
-
-The next and previous buttons take into account any filtering you may have performed on the contact list, and use the filtered list as the collection that it is moving sequentially through.)
-
-## Finding Individual People
-
-Individual people – for example a receptionist, decision-maker, CEO etc – can be recorded as unique contacts in BMS CRM, with their own contact details. You can navigate to these people either via the Contact List or the Search Bar.
-
-Remember: people belong to businesses, so navigating to an individual person will direct you to their parent business's people section.
-
-By default, the contact list filters to show only contact's recorded as a business – if you want to see individual people on this list you should open the filter and remove the contact type filter field.
+Once logged in to BMS Cloud, you can log out by selecting your the account icon in the bottom left of the menu bar, then selecting Logout. Once logged out, you will be redirected to the Login screen.
