@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Writing posts
-prev_section: frontmatter
-next_section: pages
-permalink: /docs/posts/
+title: Recording Activities
+prev_section: crm-updating-contact-details
+next_section: crm-working-with-tasks
+permalink: /docs/crm-recording-activities/
 ---
 
 One of Jekyll’s best aspects is that it is “blog aware”. What does this mean,

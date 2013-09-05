@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Finding Contacts
-prev_section: filters-and-pagination
-next_section: updating-contact-information
-permalink: /docs/finding-contacts/
+title: Managing Opportunities
+prev_section: crm-working-with-tasks
+next_section: crm-managing-tags
+permalink: /docs/crm-managing-opportunities/
 ---
 
 A contact is any business or person that is recorded in the CRM database.

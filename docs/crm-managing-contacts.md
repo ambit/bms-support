@@ -1,7 +1,9 @@
 ---
 layout: docs
-title: Working with drafts
-permalink: /docs/drafts/
+title: Managing Contacts
+prev_section: crm-finding-contacts
+next_section: crm-updating-contact-details
+permalink: /docs/crm-managing-contacts/
 ---
 
 Drafts are posts without a date. They're posts you're still working on and don't want to
