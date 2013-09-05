@@ -6,34 +6,35 @@ next_section: crm-finding-contacts
 permalink: /docs/core-filters-and-pagination/
 ---
 
-A contact is any business or person that is recorded in the CRM database.
+## Is this list being filtered?
 
-In this section, we'll go through a couple of the most common ways of navigating to a specific contact.
+When viewing lists of items in BMS, keep in mind that many of them are filtered. There are a few reasons a list might be filtered:
 
-By clicking on the contacts icon in the navigation menu, the contacts submenu will appear. From here you can choose to search for a contact, add a new contact, or view the contact list.
+* Some lists are automatically filtered to present you with the most relevant information. For example - Tasks in BMS CRM are automatically filtered to show only the tasks that are assigned to you.
+* If you have previously filtered a list, when you come back to it the same filter will still be applied – BMS will remember your filters.
 
-## The Contact List
+In the tool bar at the top of the list, an unfiltered list will appear like this: <Screen>
 
-The contact list is an index of all the contacts in the system. By clicking on an item in the index you will be directed to the details page for that contact.
+If the list is filtered, the text reads more like: <Screen>
 
-As this list can be very large, you will probably want to use the filter to narrow it down a bit. See [Filters and Pagination](../filters-and-pagination/) for more information.
+Alternatively you can click on the Filter button to bring up the filter form. The fields here will show the configuration of the current filter.
 
-The contacts submenu includes shortcuts to the full contact list, as well as a number of saved filters.
+<div class="note">
+  <span class="icon-star icon-large">&nbsp;</span>
+  <p>If you hover over the text, you can get more information about how much content has been filtered out.</p>
+</div>
 
-## The Search Bar
+## Changing the filter
 
-At the top of your display you will find BMS Search. When you are accessing the CRM Module, BMS Search will return Contacts matching your search term. The best method is to search by contact name, however other fields such as postcode or address will work.
+If you want to refine or even completely change the filter, click on the Filter button, then in the resulting form enter the details of the filter. Clicking Apply will apply the filter to the list. Alternatively you can Clear the filter to return it to its original state.
 
-## Next and Previous Buttons
+<div class="note">
+  <span class="icon-star icon-large">&nbsp;</span>
+  <p>Clearing the filter will return it to it's default state, which may be different depending on the type of list, such as BMS CRM Tasks as described in the example above.</p>
+</div>
 
-When viewing a Contact, you can navigate to the next or previous contacts (relative the contact list) by clicking on the Next Contact or Prev Contact buttons in the contact's Summary Pane. This will take you to the next/previous sequential contact in the contact list.
+## Pagination
 
-The next and previous buttons take into account any filtering you may have performed on the contact list, and use the filtered list as the collection that it is moving sequentially through.)
+Most lists in BMS allow a maximum of 25 items (but this may very). If your list exceeds this it will spill over onto multiple pages.
 
-## Finding Individual People
-
-Individual people – for example a receptionist, decision-maker, CEO etc – can be recorded as unique contacts in BMS CRM, with their own contact details. You can navigate to these people either via the Contact List or the Search Bar.
-
-Remember: people belong to businesses, so navigating to an individual person will direct you to their parent business's people section.
-
-By default, the contact list filters to show only contact's recorded as a business – if you want to see individual people on this list you should open the filter and remove the contact type filter field.
+To navigate through the pages of the list, you can click on the pagination buttons to the bottom right of the list.
