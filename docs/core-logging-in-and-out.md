@@ -30,7 +30,7 @@ After navigating to BMS in your browser, assuming you're not already logged in, 
 
 ## I don't know my login credentials
 
-If you've forgotten or have not received these credentials, but you beleive you've been registered with BMS, you should select 'Forgot your password?', then enter your email address and press 'Submit'.
+If you've forgotten or have not received these credentials, but you beleive you've been registered with BMS, you should select 'Forgot your password?', then enter your email address and press 'Send password reset email'.
 
 Your credentials (if they exist) will be sent to the linked email address.
 
