@@ -18,7 +18,7 @@ http://bms.yourcompanywebaddress.com
   <h5>For further details on accessing your environment contact <a id="Intercom" class="noRedirect" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">support</a> or your BMS administrator.</h5>
 </div>
 
-After navigating to BMS in your browser, assuming you're not already logged in, you should find yourself at the login screen. Here you just need to enter your email address and password, then press 'Login'.
+After navigating to BMS in your browser, assuming you're not already logged in, you should find yourself at the login screen. Here you just need to enter your email address and password, then press 'Sign in'.
 
 ![Login Page]({{ site.baseurl }}/img/crm-login.jpg)
 
@@ -30,12 +30,14 @@ After navigating to BMS in your browser, assuming you're not already logged in, 
 
 ## I don't know my login credentials
 
-If you've forgotten or have not received these credentials, but you beleive you've been registered with BMS, you should select 'Forgot Password', then enter your email address and press 'Submit'.
+If you've forgotten or have not received these credentials, but you beleive you've been registered with BMS, you should select 'Forgot your password?', then enter your email address and press 'Submit'.
 
 Your credentials (if they exist) will be sent to the linked email address.
 
 ## Logging out
 
 Once logged in to BMS, you can logout by selecting the account icon in the bottom left of the menu bar, then selecting 'Logout' in the submenu.
+
+![Logout Page]({{ site.baseurl }}/img/crm-logout.jpg)
 
 Once logged out, you will be redirected to the login screen.
