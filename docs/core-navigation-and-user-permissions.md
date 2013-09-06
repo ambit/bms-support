@@ -8,7 +8,7 @@ permalink: /docs/core-navigation-and-user-permissions/
 
 BMS is organised into modules, which are the core components of BMS. Each module is then split into different functional sections.
 
-## The Navigation Menu
+## Navigation Menu
 
 On the left side of your display is the navigation bar. You can access the different sections of the current module by selecting an icon in this menu, which then opens up a submenu for the section you selected.
 
