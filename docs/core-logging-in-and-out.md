@@ -20,6 +20,8 @@ http://bms.yourcompanywebaddress.com
 
 After navigating to BMS in your browser, assuming you're not already logged in, you should find yourself at the login screen. Here you just need to enter your email address and password, then press 'Login'.
 
+![Login Page]({{ site.baseurl }}/img/crm-login.jpg)
+
 <div class="note">
   <span class="icon-star icon-large">&nbsp;</span>
   <h5>For easy access, be sure to bookmark the login page in your browser favourites.</h5>
