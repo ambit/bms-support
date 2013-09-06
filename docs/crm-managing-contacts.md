@@ -6,17 +6,17 @@ next_section: crm-updating-contact-details
 permalink: /docs/crm-managing-contacts/
 ---
 
-Drafts are posts without a date. They're posts you're still working on and don't want to
-publish yet. To get up and running with drafts, create a `_drafts` folder in your site's
-root (as described in the [site structure](/docs/structure/) section) and create your
-first draft:
+<div class="note info">
+  <span class="icon-quote-left icon-large">&nbsp;</span>
+  <h5>the CRM is only as useful as the data that is recorded in it.</h5>
+  <p>It's important to keep all contact information as up to date as possible. Make a habit of double checking and updating contact information whenever you are working on a specific contact.</p>
+</div>
 
-{% highlight text %}
-|-- _drafts/
-|   |-- a-draft-post.md
-{% endhighlight %}
+## For Businesses
 
-To preview your site with drafts, simply run `jekyll serve` or `jekyll build` with
-the `--drafts` switch.  Each will be assigned the value of `Time.now`
-for its date, and thus you will see them generated as the latest posts.
+When viewing a business, select the Edit Contact button, situated on the summary pane. This will take you to the edit contact screen, where you can change most of the attributes of the Business. You can update the business name, specify optional details such as sales area or trading name, as well as add multiple addresses, phone numbers, email addresses, and identifiers.
+
+## For Individuals
+
+When viewing a business, navigate to it's people section to see a list of all the people related to that business. Select a person and you'll be taken to the edit person screen, which has mostly the same options as edit business. You can update the persons name, as well as add multiple addresses, phone numbers, or email addresses.
 
