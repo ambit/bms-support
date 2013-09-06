@@ -36,7 +36,7 @@ Your credentials (if they exist) will be sent to the linked email address.
 
 ## Logging out
 
-Once logged in to BMS, you can logout by selecting the account icon (<span class="icon-user">&nbsp;</span>) in the bottom left of the menu bar, then selecting 'Logout' in the submenu.
+Once logged in to BMS, you can logout by selecting the account icon (&nbsp;<span class="icon-user">&nbsp;</span>) in the bottom left of the menu bar, then selecting 'Logout' in the submenu.
 
 ![Logout Page]({{ site.baseurl }}/img/crm-logout.jpg)
 
