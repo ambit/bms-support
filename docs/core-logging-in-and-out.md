@@ -20,7 +20,7 @@ http://bms.yourcompanywebaddress.com
 
 After navigating to BMS in your browser, assuming you're not already logged in, you should find yourself at the login screen. Here you just need to enter your email address and password, then press 'Login'.
 
-![Login Page]({{ site.baseurl }}/img/crm-login.jpg)
+![Login Page]({{ site.baseurl }}/img/general-login.jpg)
 
 <div class="note">
   <span class="icon-star icon-large">&nbsp;</span>
@@ -38,6 +38,6 @@ Your credentials (if they exist) will be sent to the linked email address.
 
 Once logged in to BMS, you can logout by selecting the account icon (&nbsp;<span class="icon-user">&nbsp;</span>) in the bottom left of the menu bar, then selecting 'Logout' in the submenu.
 
-![Logout Page]({{ site.baseurl }}/img/crm-logout.jpg)
+![Logout Page]({{ site.baseurl }}/img/general-logout.jpg)
 
 Once logged out, you will be redirected to the login screen.

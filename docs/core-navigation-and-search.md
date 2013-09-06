@@ -12,6 +12,8 @@ BMS is organised into modules, which are the core components of BMS. Each module
 
 On the left side of your display is the navigation bar. You can access the different sections of the current module by selecting an icon in this menu, which then opens up a submenu for the section you selected.
 
+![Navigation Menu]({{ site.baseurl }}/img/general-menu.jpg)
+
 Within the submenu, you will see the name of the section you are in, with a list of options below that. Each submenu is shaded in a different colour for easy reference.
 
 ## Module Menu
