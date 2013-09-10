@@ -10,31 +10,27 @@ permalink: /docs/core-filters-and-pagination/
 
 When viewing lists of items in BMS, keep in mind that many of them are filtered. There are a few reasons a list might be filtered:
 
-* Some lists are automatically filtered to present you with the most relevant information. For example - Tasks in BMS CRM are automatically filtered to show only the tasks that are assigned to you.
-* If you have previously filtered a list, when you come back to it the same filter will still be applied – BMS will remember your filters.
+* Some lists are automatically filtered to present you with the most relevant information. e.g. Tasks in BMS CRM are automatically filtered to show only the tasks that are assigned to you.
+* If you have previously filtered a list, when you come back to it the same filter will still be applied as BMS will remember your filters.
 
 In the tool bar at the top of the list, an unfiltered list will appear like this:
 
-If the list is filtered, the text reads more like:
+![Inactive Filter]({{ site.baseurl }}/img/general-logout.jpg)
 
-Alternatively you can click on the Filter button to bring up the filter form. The fields here will show the configuration of the current filter.
+If the list is filtered, it looks more like:
 
-<div class="note">
-  <span class="icon-star icon-large">&nbsp;</span>
-  <p>If you hover over the text, you can get more information about how much content has been filtered out.</p>
-</div>
+![Active Filter]({{ site.baseurl }}/img/general-logout.jpg)
 
-## Changing the filter
+Alternatively you can click on the Filter button (&nbsp;<span class="icon-filter">&nbsp;</span>) to bring up the filter options. The options here include:
 
-If you want to refine or even completely change the filter, click on the Filter button, then in the resulting form enter the details of the filter. Clicking Apply will apply the filter to the list. Alternatively you can Clear the filter to return it to its original state.
-
-<div class="note">
-  <span class="icon-star icon-large">&nbsp;</span>
-  <p>Clearing the filter will return it to it's default state, which may be different depending on the type of list, such as BMS CRM Tasks as described in the example above.</p>
-</div>
+* Load Existing Filter - This option has a submenu of any saved filters for the current list, just select one to apply the filter.
+* Adjust Current Filter - This option allows you to add more attributes to the current filter. If no filter is applied, you can add the first attribute.
+* Save Current Filter - If you have a filter applied, you can shoose to save it for future use, after which it will appear in the Load Existing Filter submenu.
 
 ## Pagination
 
-Most lists in BMS allow a maximum of 25 items (but this may very). If your list exceeds this it will spill over onto multiple pages.
+Most lists in BMS allow a maximum of 20 items (but this may vary). If your list exceeds this it will be split up over multiple pages.
+
+![Active Filter]({{ site.baseurl }}/img/general-logout.jpg)
 
 To navigate through the pages of the list, you can click on the pagination buttons to the bottom right of the list.
