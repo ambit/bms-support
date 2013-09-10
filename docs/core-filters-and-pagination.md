@@ -17,11 +17,11 @@ In the tool bar at the top of the list, an unfiltered list will appear like this
 
 ![Inactive Filter]({{ site.baseurl }}/img/general-inactive-filter.jpg)
 
-If the list is filtered, it looks more like:
+Whereas if the list is filtered, it looks more like:
 
 ![Active Filter]({{ site.baseurl }}/img/general-active-filter.jpg)
 
-Alternatively you can click on the Filter button (&nbsp;<span class="icon-filter">&nbsp;</span>) to bring up the filter options. The options here include:
+You can click on the Filter button (&nbsp;<span class="icon-filter">&nbsp;</span>) to bring up the filter options. The options here include:
 
 * Load Existing Filter - This option has a submenu of any saved filters for the current list, just select one to apply the filter.
 * Adjust Current Filter - This option allows you to add more attributes to the current filter. If no filter is applied, you can add the first attribute.
