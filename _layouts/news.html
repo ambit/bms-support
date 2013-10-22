@@ -8,9 +8,15 @@ layout: default
       {% include news_contents.html %}
       
       <div id="rightPane">
-        {% include header.html %}
-        {{ content }}
-        {% include footer.html %}
+        <div id="contentScroller">
+          <div class="contentWidget clear">
+            {% include header.html %}
+          </div>
+          <div class="innerContent">
+            {{ content }}
+            {% include footer.html %}
+          </div>
+        </div>
       </div>
 
       <div class="clear"></div>
