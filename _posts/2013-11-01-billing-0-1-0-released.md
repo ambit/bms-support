@@ -3,7 +3,7 @@ layout: news_item
 title: "Billing 0.1.0 Released"
 date: "2013-11-01 11:00:00 +1000"
 author: ambit
-version: BILLING 0.1.0
+version: Billing 0.1.0
 categories: [release]
 ---
 
