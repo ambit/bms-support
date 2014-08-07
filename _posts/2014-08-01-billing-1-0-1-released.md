@@ -7,7 +7,9 @@ version: Billing 1.0.1
 categories: [release]
 ---
 
-Hot on the trails of CRM 2.0.1, the beta release of the Billing application is out! Here are the highlights:
+Hot on the trails of CRM 2.0.1, the beta release of the Billing application is out!
+
+Here are the highlights:
 
 * Manage customers, sssets, contracts, billings and invoices  
 * Contract profiles allow for preconfigured contract types  
