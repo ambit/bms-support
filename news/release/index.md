@@ -1,7 +1,7 @@
 ---
 layout: news
-title: Releases
-permalink: /news/releases/
+title: Release
+permalink: /news/release/
 author: all
 ---
 
