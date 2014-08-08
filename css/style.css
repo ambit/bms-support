@@ -665,6 +665,7 @@ code.option, code.flag, code.filter, code.output {
   padding: 10px 5px 5px 0px;
   text-shadow: -1px -1px 0 #fde5cb, 1px -1px 0 #fde5cb, -1px 1px 0 #fde5cb, 1px 1px 0 #fde5cb;
   background: #fde0c1;
+  outline: 1px solid #fccd9a;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
@@ -695,6 +696,7 @@ code.option, code.flag, code.filter, code.output {
 
 .info {
   background: #b3cded;
+  outline: 1px solid #92b8e5;
 }
 
 .info span, .info p, .info h5 {
@@ -704,6 +706,7 @@ code.option, code.flag, code.filter, code.output {
 
 .warning {
   background: #f8cccc;
+  outline: 1px solid #f3a8a8;
 }
 
 .warning span, .warning p, .warning h5 {
