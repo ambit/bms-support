@@ -28,23 +28,21 @@ More information can be found at <a class="noRedirect" href="http://www.bmserp.c
 
 ## Tips, Notes, and Warnings
 
-Throughout this guide there are a number of small-but-handy pieces of
-information that can make using BMS easier, more interesting, and less
-hazardous. Here’s what to look out for.
+Throughout this guide there are a number of small-but-handy pieces of information that can make using BMS easier, more interesting, and less hazardous. Here’s what to look out for.
 
 <div class="note">
   <span class="icon-star icon-large">&nbsp;</span>
-  <h5>Tips - Tips are helpful tricks to improve your speed and productivity</h5>
+  <h5>Tips - Tips are helpful tricks to improve your speed and productivity.</h5>
 </div>
 
 <div class="note info">
   <span class="icon-quote-left icon-large">&nbsp;</span>
-  <h5>Notes - Notes are handy pieces of information to help you better understand BMS</h5>
+  <h5>Notes - Notes are handy pieces of information to help you better understand BMS.</h5>
 </div>
 
 <div class="note warning">
   <span class="icon-warning-sign icon-large">&nbsp;</span>
-  <h5>Warnings - Warnings point out potential issues or problems to avoid</h5>
+  <h5>Warnings - Warnings point out potential issues or problems to avoid.</h5>
 </div>
 
 If you come across anything along the way that we haven’t covered, or if you
