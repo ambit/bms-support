@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: "Billing 1.0.1 Released"
+title: "Billing 1.0.1 Release"
 date: "2014-08-01 11:01:00 +1000"
 author: michaelmulligan
 version: Billing 1.0.1
