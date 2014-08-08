@@ -442,10 +442,12 @@ article h2:first-child {
 }
 
 .news article {
-  padding: 20px 25px 20px 25px;
+  padding: 0 25px 20px 25px;
+  width: 675px;
 }
 
 .news article + article {
+  padding-top: 25px;
   border-top: 1px solid #e2e2e2;
 }
 
