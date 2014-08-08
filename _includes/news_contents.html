@@ -3,10 +3,10 @@
     <h2>Help Centre</h2>
     <ul>
       <li class="{% if page.title == 'News' %}current{% endif %}">
-        <a href="{{site.baseurl}}/news/">All News</a>
+        <a href="{{site.baseurl}}{{site.posts}}">All News</a>
       </li>
       <li class="{% if page.title == 'Releases' %}current{% endif %}">
-        <a href="{{site.baseurl}}/news/releases/">BMS Releases</a>
+        <a href="{{site.baseurl}}{{site.categories.release}}">BMS Releases</a>
       </li>
     </ul>
     <h3><i class="icon-github-alt"></i> Recent Releases</h3>
@@ -16,9 +16,6 @@
         <a href="{{site.baseurl}}{{post.url}}">{{ post.version }}</a>
       </li>
       {% endfor %}
-      <li>
-        <a href="{{site.baseurl}}/docs/history/">History »</a>
-      </li>
     </ul>
   </aside>
 </div>
