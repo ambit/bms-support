@@ -449,6 +449,10 @@ article h2:first-child {
   border-top: 1px solid #e2e2e2;
 }
 
+#disqus-container {
+  padding-top: 40px;
+}
+
 /* Code Highlighting */
 
 
