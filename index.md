@@ -51,5 +51,5 @@ hazardous. Here’s what to look out for.
 </div>
 
 If you come across anything along the way that we haven’t covered, or if you
-know of a tip you think others would find handy, please <a id="Intercom" class="noRedirect" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">get in touch</a> and we’ll see about
+know of a tip you think others would find handy, please <a class="noRedirect" id="Intercom" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">get in touch</a> and we’ll see about
 including it in this guide.
