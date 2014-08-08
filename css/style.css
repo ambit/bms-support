@@ -433,13 +433,17 @@ article h2:first-child {
 }
 
 .post-meta {
-  padding: 5px 0;
+  padding: 5px 0 10px 0;
   color: rgba(0, 0, 0, 0.541176);
 }
 
 .post-date,
 .post-author {
   margin-left: 10px;
+}
+
+.post-author:hover {
+  text-decoration: none;
 }
 
 .news article {
