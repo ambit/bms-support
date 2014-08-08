@@ -3,19 +3,17 @@ layout: news
 ---
 
 <article>
-  <h2>
-    {{ page.title }}
-  </h2>
+  <h2>{{ page.title }}</h2>
   <span class="post-category">
     {% for category in page.categories %}
-    <span class="label">{{ category }}</span>
+      <span class="label">{{ category }}</span>
     {% endfor %}
   </span>
   <div class="post-meta">
     <span class="post-date">
       {{ page.date | date_to_string }}
     </span>
-    <a href="https://github.com/{{ page.author }}" class="post-author">
+    <a href="https://github.com/{{ page.author }}" class="post-author" target="_blank">
       <img src="https://github.com/{{ page.author }}.png" class="avatar" />
       {{ page.author }}
     </a>
