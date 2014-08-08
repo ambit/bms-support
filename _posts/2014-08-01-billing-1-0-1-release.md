@@ -11,7 +11,7 @@ Hot on the trails of CRM 2.0.1, the beta release of the Billing application is o
 
 Here are the highlights:
 
-* Manage customers, sssets, contracts, billings and invoices  
+* Manage customers, assets, contracts, billings and invoices  
 * Contract profiles allow for preconfigured contract types  
 * Manage multiple rates within a contract  
 * Add rate increases to active contracts  
