@@ -6,10 +6,10 @@
         <a href="{{site.baseurl}}/news/">All News</a>
       </li>
       <li class="{% if page.title == 'Releases' %}current{% endif %}">
-        <a href="{{site.baseurl}}/news/release/">BMS Releases</a>
+        <a href="{{site.baseurl}}/news/release/">All Release</a>
       </li>
     </ul>
-    <h3><i class="icon-github-alt"></i> Recent Releases</h3>
+    <h3><i class="icon-github-alt"></i> Recent Release</h3>
     <ul>
       {% for post in site.posts limit:5 %}
       <li class="{% if page.title == post.title %}current{% endif %}">
