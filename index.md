@@ -34,17 +34,17 @@ hazardous. Here’s what to look out for.
 
 <div class="note">
   <span class="icon-star icon-large">&nbsp;</span>
-  <h5>Tips are helpful tricks to improve your productivity within BMS</h5>
+  <h5>Tips - Tips are helpful tricks to improve your speed and productivity</h5>
 </div>
 
 <div class="note info">
   <span class="icon-quote-left icon-large">&nbsp;</span>
-  <h5>Notes are handy pieces of information to help you better understand BMS</h5>
+  <h5>Notes - Notes are handy pieces of information to help you better understand BMS</h5>
 </div>
 
 <div class="note warning">
   <span class="icon-warning-sign icon-large">&nbsp;</span>
-  <h5>Warnings point out potential issues or problems to avoid</h5>
+  <h5>Warnings - Warnings point out potential issues or problems to avoid</h5>
 </div>
 
 If you come across anything along the way that we haven’t covered, or if you
