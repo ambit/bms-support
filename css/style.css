@@ -384,18 +384,18 @@ article h2:first-child {
   margin-left: -30px;
   padding: 6px 20px 8px 50px;
   position: relative;
-  text-shadow: -1px -1px 0 #d6d6d6, 1px -1px 0 #d6d6d6, -1px 1px 0 #d6d6d6, 1px 1px 0 #d6d6d6;
-  background: #d1d1d1;
+  text-shadow: -1px -1px 0 #fde5cb, 1px -1px 0 #fde5cb, -1px 1px 0 #fde5cb, 1px 1px 0 #fde5cb;
+  background: #fde0c1;
   border-radius: 0 5px 5px 0;
-  border-top: 1px solid #bdbdbd;
-  border-right: 1px solid #bdbdbd;
-  border-bottom: 1px solid #bdbdbd;
+  border-top: 1px solid #fccd9a;
+  border-right: 1px solid #fccd9a;
+  border-bottom: 1px solid #fccd9a;
 }
 
 .label {
   float: left;
   text-transform: uppercase;
-  color: #666666;
+  color: #e17807;
 }
 
 @media (max-width: 568px){
