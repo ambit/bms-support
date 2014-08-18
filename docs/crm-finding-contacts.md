@@ -6,7 +6,7 @@ next_section: crm-managing-contacts
 permalink: /docs/crm-finding-contacts/
 ---
 
-A contact is any business or person that is recorded in the CRM database.
+A contact is any business that is recorded in the CRM database.
 
 In this section, we'll go through a couple of the most common ways of navigating to a specific contact.
 
@@ -22,18 +22,10 @@ The contacts submenu includes shortcuts to the full contact list, as well as a n
 
 ## The Search Bar
 
-At the top of your display you will find BMS Search. When you are accessing the CRM Module, BMS Search will return Contacts matching your search term. The best method is to search by contact name, however other fields such as postcode or address will work.
+At the top of the submenu you will find contact search. The most efficient method is to search by contact name, however other fields such as postcode or address will work.
 
 ## Prev and Next Buttons
 
 When viewing a Contact, you can navigate to the previous or next contacts (relative to the contact list) by clicking on the Prev Contact or Next Contact buttons in the contact's Summary Pane. This will take you to the previous/next sequential contact in the contact list.
 
 The previous and next buttons take into account any filtering you may have performed on the contact list, and use the filtered list as the collection that it is moving sequentially through.
-
-## Finding Individual People
-
-Individual people – for example a receptionist, decision-maker, CEO etc – can be recorded as unique contacts in BMS CRM, with their own contact details. You can navigate to these people either via the Contact List or the Search Bar.
-
-Remember: people belong to businesses, so navigating to an individual person will direct you to their parent business's people section.
-
-By default, the contact list filters to show only contact's recorded as a business – if you want to see individual people on this list you should open the filter and remove the contact type filter field.

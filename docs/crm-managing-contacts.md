@@ -28,19 +28,10 @@ All content tabs have a toolbar at the top which will display tools relevant to 
 ## Activities
 
 All interactions with a contact are recorded here. The activities list should read as a detailed timeline, informing you (and other users) on any calls, meetings, emails, or any other interaction you might have with the contact. For more detail on working with activities, see Recording Activities.
-Selecting New Activity will display a form for entering new activity.
+
+Selecting New Activity will display a form for entering a new activity.
 
 The activity list below displays all the activities recorded for the contact, along with options to create follow-up tasks and follow-up opportunities. Additionally, administrators also have the option to delete and edit existing activities.
-
-## Notes
-
-The notes tab displays any ad-hoc comments about the contact. This is for recording miscellaneous information about the contact ('Contact Y is a long standing customer, make sure to always enquire about the health of Joe Bloggs') that complements the sales process.
-
-You can also attach files here, which will then be viewable by all other users.
-
-Selecting New Note will open a form for recording new notes via a textbox, and an optional file attachment field.
-
-Administrators can also edit and delete existing notes/files in the list below.
 
 ## Tasks
 
@@ -58,12 +49,24 @@ TODO
 
 ## People
 
-The people tab allows you to record all the people you interact with at a Contact. By keeping track of people at a business allows you to target your interactions with the contact. A good rule of thumb is if you speak with someone at a contact 
+The people tab allows you to record all the people you interact with at a Contact. Keeping track of people at a business allows you to target your interactions with the contact.
+
 Selecting New Person will take you to a new person screen where you can enter their details. You only need to record the persons name, however optionally you can add information about their position, phone number, or email address.
 
 ## Products
 
 The products tab allows you to record any relevant products installed or owned by the contact, as well as any contract details. This allows you to make more informed decisions during the sales process.
+
 Selecting New Product will display a form for entering new product information, such as Product Type, Brand, Model etc.
 
 You can also delete and edit individual product records.
+
+## Comments
+
+The comments tab displays any ad-hoc comments about the contact. This is for recording miscellaneous information about the contact ('Contact Y is a long standing customer, make sure to always enquire about the health of Joe Bloggs') that complements the sales process.
+
+You can also attach files here, which will then be viewable by all other users.
+
+Selecting New Comment will open a form for recording new comments via a textbox, and an optional file attachment field.
+
+Administrators can also edit and delete existing comments in the list below.
