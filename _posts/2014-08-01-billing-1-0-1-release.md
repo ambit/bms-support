@@ -17,4 +17,3 @@ Here are the highlights:
 * Add rate increases to active contracts  
 * Automatically generated transactions for billings  
 * Apply cost centres to assets as required
-

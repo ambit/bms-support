@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Recording Activities
-prev_section: crm-updating-contact-details
+prev_section: crm-tagging-contacts
 next_section: crm-working-with-tasks
 permalink: /docs/crm-recording-activities/
 ---

@@ -22,6 +22,6 @@ You can access the different applications in BMS by selecting the current applic
 
 ## User Permissions
 
-To keep things simple for users and to keep information secure, BMS only lets you see what you need to see. This applies to which Applications you can access, down to the what information you can see/modify within the applications. Keep this in mind when you are wondering why your workmate can see some things in BMS that you can't, and vice versa.
+To keep things simple for users and to keep information secure, BMS only lets you see what you need to see. This applies to which Applications you can access, down to the what information you can see/modify within the applications. Keep this in mind when you are wondering why your colleague can see some things in BMS that you can't, and vice versa.
 
 For more information on what you can and can't see, you should ask your BMS Administrator for a run down of roles and permissions in your environment.

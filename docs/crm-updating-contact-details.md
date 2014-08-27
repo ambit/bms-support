@@ -2,7 +2,7 @@
 layout: docs
 title: Updating Contact details
 prev_section: crm-managing-contacts
-next_section: crm-recording-activities
+next_section: crm-tagging-contacts
 permalink: /docs/crm-updating-contact-details/
 ---
 
