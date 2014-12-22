@@ -8,11 +8,13 @@
     else return results[1];
   }
 
-  var paramEmail = gup( 'email' );
-  var paramCreated = gup( 'created' );
+  var paramName = gup( 'userName' );
+  var paramEmail = gup( 'userEmail' );
+  var paramCreated = gup( 'userCreated' );
 
   if (paramEmail != "") {
     window.intercomSettings = {
+      name: paramName,
       email: paramEmail,
       created_at: paramCreated,
       "widget": {
