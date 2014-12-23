@@ -11,6 +11,7 @@
   var paramName = gup( 'userName' );
   var paramEmail = gup( 'userEmail' );
   var paramCreated = gup( 'userCreated' );
+  paramName.replace(/%20/g, " ");
 
   if (paramEmail != "") {
     window.intercomSettings = {
