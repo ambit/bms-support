@@ -14,12 +14,13 @@
   var uEmail = gup( 'userEmail' );
   var uCreated = gup( 'userCreated' );
   var uRoles = gup( 'userRoles' );
-  
+  console.log(uRoles);
   cName.replace(/%20/g, ' ');
   uName.replace(/%20/g, ' ');  
   uRoles.replace(/%20/g, ' ');
   uRoles.replace(/%22/g, '\"');
   uRoles = JSON.parse(uRoles);
+  console.log(uRoles);
 
   if (uEmail != "") {
     window.intercomSettings = {
