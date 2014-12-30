@@ -15,13 +15,11 @@
   var uCreated = gup( 'userCreated' );
   var uRoles = gup( 'userRoles' );
   console.log(uRoles);
-  cName.replace(/%20/g, " ");
+  cName = decodeURI(cName)
   console.log(cName);
-  uName.replace(/%20/g, " ");
-  console.log(uName);  
-  uRoles.replace(/%20/g, " ");
-  console.log(uRoles);
-  uRoles.replace(/%22/g, "\"");
+  uName = decodeURI(uName)
+  console.log(uName);
+  uRoles = decodeURI(uRoles)
   console.log(uRoles);
   uRoles = JSON.parse(uRoles);
   console.log(uRoles);
