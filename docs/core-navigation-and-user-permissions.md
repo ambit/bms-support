@@ -14,11 +14,11 @@ On the left side of your display is the navigation bar. You can access the diffe
 
 ![Navigation Menu]({{ site.baseurl }}/img/general-menu.jpg)
 
-Within the submenu, you will see the name of the section you are in, with a list of options below that. Each submenu is shaded in a different colour for easy reference.
+Within the submenu, you will see the name of the section you are in, with a list of options below that. Each submenu is highlighted by a different colour for easy reference.
 
 ## Application Menu
 
-You can access the different applications in BMS by selecting the current application icon in the bottom left of the menu bar. The submenu will then display a list of all applications you have access to. Selecting one of these options will take you to that applications landing page.
+You can access the different applications in BMS by selecting the select application icon in the top left of the menu bar. The submenu will then display a list of all applications you have access to. Selecting one of these options will take you to that applications landing page.
 
 ## User Permissions
 

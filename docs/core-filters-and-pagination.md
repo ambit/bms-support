@@ -29,7 +29,7 @@ You can click on the Filter button (&nbsp;<span class="icon-filter">&nbsp;</span
 
 ## Pagination
 
-Most lists in BMS allow a maximum of 20 items (but this may vary). If your list exceeds this it will be split up over multiple pages.
+Most lists in BMS allow a maximum of 20 items (but this may vary as it is configurable by your BMS Administrator). If your list exceeds this it will be split up over multiple pages.
 
 ![Pagination]({{ site.baseurl }}/img/general-pagination.jpg)
 
