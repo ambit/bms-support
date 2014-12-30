@@ -8,21 +8,33 @@
     else return results[1];
   }
 
-  var paramName = gup( 'userName' );
-  var paramEmail = gup( 'userEmail' );
-  var paramCreated = gup( 'userCreated' );
-  paramName.replace(/%20/g, " ");
+  var cId = gup( 'companyId' );
+  var cName = gup( 'companyName' );
+  var uName = gup( 'userName' );
+  var uEmail = gup( 'userEmail' );
+  var uCreated = gup( 'userCreated' );
+  var uRoles = gup( 'userRoles' );
+  
+  cName.replace(/%20/g, " ");
+  uName.replace(/%20/g, " ");  
+  uRoles.replace(/%20/g, " ");
+  uRoles = JSON.parse(uRoles);
 
-  if (paramEmail != "") {
+  if (uEmail != "") {
     window.intercomSettings = {
-      name: paramName,
-      email: paramEmail,
-      created_at: paramCreated,
+      company: {
+        id: cId,
+        name: cName,
+      },
+      name: uName,
+      email: uEmail,
+      created_at: uCreated,
       "widget": {
         "activator": "#Intercom"
       },
       app_id: "c772676240e0bea1fa03f8bbf21edc26778efc65"
     };
+    $.extend(window.intercomSettings, uRoles);
   }
   else {
     $("a#Intercom").hide();
