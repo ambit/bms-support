@@ -14,15 +14,10 @@
   var uEmail = gup( 'userEmail' );
   var uCreated = gup( 'userCreated' );
   var uRoles = gup( 'userRoles' );
-  console.log(uRoles);
   cName = decodeURI(cName);
-  console.log(cName);
   uName = decodeURI(uName);
-  console.log(uName);
   uRoles = decodeURI(uRoles);
-  console.log(uRoles);
   uRoles = JSON.parse(uRoles);
-  console.log(uRoles);
 
   if (uEmail != "") {
     window.intercomSettings = {
