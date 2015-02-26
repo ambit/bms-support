@@ -183,6 +183,11 @@ body {
   list-style-type: none;
 }
 
+#leftPane h3.menuToggle:hover {
+  color: #626262;
+  cursor: pointer;
+}
+
 #leftPane ul.top, #leftPane ul.menuList {
   width: 350px;
   margin: 0;
@@ -707,8 +712,8 @@ code.option, code.flag, code.filter, code.output {
   font-size: 15px;
   color: #e17807;
   position: absolute;
-  top: 9px;
-  left: 11px;
+  top: 12px;
+  left: 12px;
 }
 
 .info {
