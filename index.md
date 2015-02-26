@@ -18,7 +18,7 @@ It's configured as a hosted Software-as-a-Service (SaaS) solution to take advant
 
 BMS features <a class="noRedirect" href="http://www.bmserp.com/applications" target="_blank">applications</a> for Customer Relationship Management (CRM), Configure-Price-Quote (CPQ), Billing and Revenue Management (BRM), Supply Chain Management (SCM) and Service Lifecycle Management (SLM). We believe that our core applications add great value when combined in the one unified suite - a single customer file, tracking all interactions, for consolidated work-flow and reporting.
 
-A broad selection of <a class="noRedirect" href="http://www.bmserp.com/extensions" target="_blank">Extensions and Integrations</a> provide powerful new features and services to enhance the BMS suite. In-built flexibility allows for individual customisation, with a number of industry solutions available to facilitate customisation at a lower total cost of ownership.
+A broad selection of <a class="noRedirect" href="http://www.bmserp.com/extensions" target="_blank">extensions and integrations</a> provide powerful new features and services to enhance the BMS suite. In-built flexibility allows for individual customisation, with a number of industry solutions available to facilitate customisation at a lower total cost of ownership.
 
 More information can be found at <a class="noRedirect" href="http://www.bmserp.com" target="_blank">www.bmserp.com</a>
 

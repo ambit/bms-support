@@ -2,7 +2,7 @@
 layout: docs
 title: Managing Opportunities
 prev_section: crm-working-with-tasks
-next_section: crm-managing-tags
+next_section: crm-creating-campaigns
 permalink: /docs/crm-managing-opportunities/
 ---
 

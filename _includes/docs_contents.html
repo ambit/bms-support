@@ -57,6 +57,29 @@
           </li>
         </ul>
       </li>
+      <li>
+        <h3 class="menuToggle"><i class="fa fa-retweet"></i> Billing Application <i class="fa fa-angle-down right"></i></h3>
+        <ul class="menuList" style="display: none;">
+          <li class="{% if page.title == 'Managing customers' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/billing-managing-customers/">Managing customers</a>
+          </li>
+          <li class="{% if page.title == 'Tracking assets' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/billing-tracking-assets/">Tracking assets</a>
+          </li>
+          <li class="{% if page.title == 'Creating contracts' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/billing-creating-contracts/">Creating contracts</a>
+          </li>
+          <li class="{% if page.title == 'Billings and transactions' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/billing-billings-and-transactions/">Billings and transactions</a>
+          </li>
+          <li class="{% if page.title == 'Generating invoices' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/billing-generating-invoices/">Generating invoices</a>
+          </li>
+          <li class="{% if page.title == 'Agents and engineers' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/billing-agents-and-engineers/">Agents and engineers</a>
+          </li>
+        </ul>
+      </li>
 <!--
     <h3>BILLING</h3>
     <h3>STOCK</h3>
