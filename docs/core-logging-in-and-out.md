@@ -14,8 +14,8 @@ http://yourcompany.bmserp.com
 http://bms.yourcompanywebaddress.com
 
 <div class="note info">
-  <span class="icon-quote-left icon-large">&nbsp;</span>
-  <h5>For specific details on accessing your environment contact <a id="Intercom" class="noRedirect" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">support</a> or your BMS administrator.</h5>
+  <span class="fa fa-quote-left fa-lg">&nbsp;</span>
+  <h5>For specific details on accessing your environment contact <a id="Intercom" class="askSupport noRedirect" href="mailto:c772676240e0bea1fa03f8bbf21edc26778efc65@incoming.intercom.io">support</a> or your BMS administrator.</h5>
 </div>
 
 After navigating to BMS in your browser, assuming you're not already logged in, you should find yourself at the login screen. Here you just need to enter your email address and password, then press 'Login'.
@@ -23,7 +23,7 @@ After navigating to BMS in your browser, assuming you're not already logged in, 
 ![Login Page]({{ site.baseurl }}/img/general-login.jpg)
 
 <div class="note">
-  <span class="icon-star icon-large">&nbsp;</span>
+  <span class="fa fa-star fa-lg">&nbsp;</span>
   <h5>For easy access, be sure to bookmark the login page in your browser favourites.</h5>
 </div>
 
@@ -36,7 +36,7 @@ Your credentials (if they exist) will be sent to the linked email address.
 
 ## Logging out
 
-Once logged in to BMS, you can logout by selecting the account icon (&nbsp;<span class="icon-user">&nbsp;</span>) in the bottom left of the menu bar, then selecting 'Logout' in the submenu.
+Once logged in to BMS, you can logout by selecting the account icon (&nbsp;<span class="fa fa-user">&nbsp;</span>) in the bottom left of the menu bar, then selecting 'Logout' in the submenu.
 
 ![Logout Page]({{ site.baseurl }}/img/general-logout.jpg)
 

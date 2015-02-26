@@ -7,7 +7,7 @@ permalink: /docs/crm-updating-contact-details/
 ---
 
 <div class="note">
-  <span class="icon-star icon-large">&nbsp;</span>
+  <span class="fa fa-star fa-lg">&nbsp;</span>
   <h5>The CRM is only as useful as the data that is recorded in it. It's important to keep all contact information as up to date as possible. Make a habit of double checking and updating contact information whenever you are working on a specific contact.</h5>
 </div>
 
