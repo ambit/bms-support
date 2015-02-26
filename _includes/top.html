@@ -28,8 +28,10 @@
       }
       
       $('.menuToggle').click(function(e){
-        $('ul.menuList:visible').slideToggle('fast');
         list = $(event.target).closest('li').find('ul.menuList');
+        if ($(list).is(':hidden')) { 
+          $('ul.menuList:visible').slideToggle('fast');
+        }
         list.slideToggle('fast');
       });
       
