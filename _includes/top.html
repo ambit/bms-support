@@ -19,7 +19,7 @@
       var isInIframe = (window.location != window.parent.location) ? true : false;
       if (isInIframe) {
         $('a').click(function(e){
-          if ($(this).attr("class") == "askSupport") {
+          if ($(this).hasClass("askSupport")) {
             e.preventDefault();
             var clicked = true;
             window.parent.postMessage(clicked, '*');

@@ -37,7 +37,7 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 </div>
 
 <div class="note warning">
-  <span class="fa fa-warning-sign fa-lg">&nbsp;</span>
+  <span class="fa fa-exclamation-triangle fa-lg">&nbsp;</span>
   <h5>Warnings - Warnings point out potential issues or problems to avoid.</h5>
 </div>
 
