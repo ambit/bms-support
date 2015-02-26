@@ -10,48 +10,53 @@
         <a class="noRedirect" href="tel://0414239466" target="_blank">Urgent problem? Call 0414 239 466</a>
       </li>
     </ul>
-    <h3><i class="icon-globe"></i> General Topics</h3>
     <ul>
-      <li class="{% if page.title == 'Logging in and out' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/core-logging-in-and-out/">Logging in and out</a>
+      <li>
+        <h3 class="menuToggle"><i class="icon-globe"></i> General Topics <i class="fa-angle-down right"></i></h3>
+        <ul class="menuList">
+          <li class="{% if page.title == 'Logging in and out' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-logging-in-and-out/">Logging in and out</a>
+          </li>
+          <li class="{% if page.title == 'Changing your details' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-changing-your-details/">Changing your details</a>
+          </li>
+          <li class="{% if page.title == 'Navigation and user permissions' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-navigation-and-user-permissions/">Navigation and user permissions</a>
+          </li>
+          <li class="{% if page.title == 'Filters and pagination' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-filters-and-pagination/">Filters and pagination</a>
+          </li>
+        </ul>
       </li>
-      <li class="{% if page.title == 'Changing your details' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/core-changing-your-details/">Changing your details</a>
+      <li>
+        <h3 class="menuToggle"><i class="icon-bullseye"></i> CRM Application <i class="fa-angle-down right"></i></h3>
+        <ul class="menuList">
+          <li class="{% if page.title == 'Finding contacts' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/crm-finding-contacts/">Finding contacts</a>
+          </li>
+          <li class="{% if page.title == 'Managing contacts' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/crm-managing-contacts/">Managing contacts</a>
+          </li>
+          <li class="{% if page.title == 'Updating contact details' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/crm-updating-contact-details/">Updating contact details</a>
+          </li>
+          <li class="{% if page.title == 'Recording activities' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/crm-recording-activities/">Recording activities</a>
+          </li>
+          <li class="{% if page.title == 'Working with tasks' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/crm-working-with-tasks/">Working with tasks</a>
+          </li>
+          <li class="{% if page.title == 'Managing opportunities' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/crm-managing-opportunities/">Managing opportunities</a>
+          </li>
+          <li class="{% if page.title == 'Managing tags' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/crm-managing-tags/">Managing tags</a>
+          </li>
+          <li class="{% if page.title == 'Creating campaigns' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/crm-creating-campaigns/">Creating campaigns</a>
+          </li>
+        </ul>
       </li>
-      <li class="{% if page.title == 'Navigation and user permissions' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/core-navigation-and-user-permissions/">Navigation and user permissions</a>
-      </li>
-      <li class="{% if page.title == 'Filters and pagination' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/core-filters-and-pagination/">Filters and pagination</a>
-      </li>
-    </ul>
-    <h3><i class="icon-bullseye"></i> CRM Module</h3>
-    <ul>
-      <li class="{% if page.title == 'Finding contacts' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/crm-finding-contacts/">Finding contacts</a>
-      </li>
-      <li class="{% if page.title == 'Managing contacts' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/crm-managing-contacts/">Managing contacts</a>
-      </li>
-      <li class="{% if page.title == 'Updating contact details' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/crm-updating-contact-details/">Updating contact details</a>
-      </li>
-      <li class="{% if page.title == 'Recording activities' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/crm-recording-activities/">Recording activities</a>
-      </li>
-      <li class="{% if page.title == 'Working with tasks' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/crm-working-with-tasks/">Working with tasks</a>
-      </li>
-      <li class="{% if page.title == 'Managing opportunities' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/crm-managing-opportunities/">Managing opportunities</a>
-      </li>
-      <li class="{% if page.title == 'Managing tags' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/crm-managing-tags/">Managing tags</a>
-      </li>
-      <li class="{% if page.title == 'Creating campaigns' %}current{% endif %}">
-        <a href="{{ site.baseurl }}/docs/crm-creating-campaigns/">Creating campaigns</a>
-      </li>
-    </ul>
 <!--
     <h3>BILLING</h3>
     <h3>STOCK</h3>
@@ -59,5 +64,6 @@
     <h3>REPORTS</h3>
     <h3>INTEGRATIONS</h3>
 -->
+    </ul>
   </aside>
 </div>

@@ -176,7 +176,14 @@ body {
   zoom: 1;
 }
 
-#leftPane ul {
+#leftPane ul, #leftPane li {
+  margin: 0;
+  padding: 0;
+  border: none;
+  list-style-type: none;
+}
+
+#leftPane ul.top, #leftPane ul.menuList {
   width: 350px;
   margin: 0;
   padding: 5px 0 10px 0;
@@ -187,7 +194,7 @@ body {
   box-sizing: border-box;
 }
 
-#leftPane li {
+#leftPane .top li, #leftPane .menuList li {
   margin: 10px 0 10px 15px;
   padding: 0;
   line-height: 20px;
@@ -207,6 +214,10 @@ body {
 
 #leftPane li a:hover {
   text-decoration: underline;
+}
+
+#leftPane li i.right { 
+  float: right;  
 }
 
 

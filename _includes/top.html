@@ -25,6 +25,12 @@
           }
         });
       }
+      
+      $('.menuToggle').click(function(e){
+        list = $(event.target).closest('li').find('ul.menuList');
+        list.slideToggle('fast');
+      });
+      
     });
   </script>
 </head>
