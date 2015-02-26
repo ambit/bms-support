@@ -7,7 +7,7 @@ version: Billing 1.0.2
 categories: [release]
 ---
 
-Updates to Billing to bring it in line with the latest release for Service. Main changes are in transactions and invocies.
+Updates to Billing to bring it in line with the latest release for Service. Main changes are in transactions and invoices.
 
 Here are the highlights:
 
