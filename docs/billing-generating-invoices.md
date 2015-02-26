@@ -2,7 +2,7 @@
 layout: docs
 title: Generating Invoices
 prev_section: billing-billings-and-transactions
-next_section: billing-agents-and-engineers
+next_section: billing-service-and-finance-agents
 permalink: /docs/billing-generating-invoices/
 ---
 
