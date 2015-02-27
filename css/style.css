@@ -203,7 +203,7 @@ body {
 }
 
 #leftPane h3.menuToggle:hover {
-  color: #626262;
+  color: rgba(0, 0, 0, 0.87);
   cursor: pointer;
 }
 
@@ -245,7 +245,7 @@ body {
 }
 
 #leftPane li.current a {
-  color: #333333;
+  color: rgba(0, 0, 0, 0.87);
   text-decoration: none !important;
   cursor: default;
 }
