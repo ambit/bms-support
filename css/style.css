@@ -80,7 +80,7 @@ body {
     -webkit-transition: left 0.2s;
     transition: left 0.2s;
   }
-  
+
   #rightPane {
     left: 350px;
     right: 0px;
@@ -91,11 +91,11 @@ body {
     -webkit-transition: left 0.2s;
     transition: left 0.2s;
   }
-  
+
 }
-  
+
 @media (min-width: 697px) and (max-width: 1007px) {
-  
+
   #leftPane {
     width: 40px
     left: 0px
@@ -104,7 +104,7 @@ body {
     -o-transition: left 0.2s;
     transition: left 0.2s;
   }
-  
+
   #rightPane {
     min-width: 657px !important;
     left: 40px;
@@ -114,11 +114,11 @@ body {
     -o-transition: left 0.2s;
     transition: left 0.2s;
   }
-  
+
 }
 
 @media (max-width: 696px) {
-  
+
   #rightPane {
     width: 100%;
     min-width: 100%;
@@ -130,7 +130,7 @@ body {
     -o-transition: left 0.2s;
     transition: left 0.2s;
   }
-  
+
 }
 
 
@@ -240,10 +240,15 @@ body {
   text-decoration: underline;
 }
 
-#leftPane li i.right { 
-  float: right;  
+#leftPane li i.right {
+  float: right;
 }
 
+#leftPane li.current a {
+  color: #333333;
+  text-decoration: none !important;
+  cursor: default;
+}
 
 /* Right Pane Content */
 
@@ -383,11 +388,11 @@ nav li {
 }
 
 .section-nav .prev i {
-  margin-right: 10px;  
+  margin-right: 10px;
 }
 
 .section-nav .next i {
-  margin-left: 10px;  
+  margin-left: 10px;
 }
 
 .section-nav .disabled {

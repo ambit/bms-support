@@ -21,16 +21,16 @@
       <li>
         <h3 class="menuToggle"><i class="fa fa-globe"></i> General Topics <i class="fa fa-angle-down right"></i></h3>
         <ul class="menuList" style="display: none;">
-          <li class="{% if page.title == 'Logging in and out' %}current{% endif %}">
+          <li class="{% if page.title contains 'Logging In And Out' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/core-logging-in-and-out/">Logging in and out</a>
           </li>
-          <li class="{% if page.title == 'Changing your details' %}current{% endif %}">
+          <li class="{% if page.title contains 'Changing Your Details' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/core-changing-your-details/">Changing your details</a>
           </li>
-          <li class="{% if page.title == 'Navigation and user permissions' %}current{% endif %}">
+          <li class="{% if page.title contains 'Navigation And User Permissions' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/core-navigation-and-user-permissions/">Navigation and user permissions</a>
           </li>
-          <li class="{% if page.title == 'Filters and pagination' %}current{% endif %}">
+          <li class="{% if page.title contains 'Filters And Pagination' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/core-filters-and-pagination/">Filters and pagination</a>
           </li>
         </ul>
@@ -38,28 +38,28 @@
       <li>
         <h3 class="menuToggle"><i class="fa fa-bullseye"></i> CRM Application <i class="fa fa-angle-down right"></i></h3>
         <ul class="menuList" style="display: none;">
-          <li class="{% if page.title == 'Finding contacts' %}current{% endif %}">
+          <li class="{% if page.title contains 'Finding Contacts' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/crm-finding-contacts/">Finding contacts</a>
           </li>
-          <li class="{% if page.title == 'Managing contacts' %}current{% endif %}">
+          <li class="{% if page.title contains 'Managing Contacts' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/crm-managing-contacts/">Managing contacts</a>
           </li>
-          <li class="{% if page.title == 'Updating contact details' %}current{% endif %}">
+          <li class="{% if page.title contains 'Updating Contact Details' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/crm-updating-contact-details/">Updating contact details</a>
           </li>
-          <li class="{% if page.title == 'Tagging contacts' %}current{% endif %}">
+          <li class="{% if page.title contains 'Tagging Contacts' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/crm-tagging-contacts/">Tagging contacts</a>
           </li>
-          <li class="{% if page.title == 'Recording activities' %}current{% endif %}">
+          <li class="{% if page.title contains 'Recording Activities' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/crm-recording-activities/">Recording activities</a>
           </li>
-          <li class="{% if page.title == 'Working with tasks' %}current{% endif %}">
+          <li class="{% if page.title contains 'Working With Tasks' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/crm-working-with-tasks/">Working with tasks</a>
           </li>
-          <li class="{% if page.title == 'Managing opportunities' %}current{% endif %}">
+          <li class="{% if page.title contains 'Managing Opportunities' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/crm-managing-opportunities/">Managing opportunities</a>
           </li>
-          <li class="{% if page.title == 'Creating campaigns' %}current{% endif %}">
+          <li class="{% if page.title contains 'Creating Campaigns' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/crm-creating-campaigns/">Creating campaigns</a>
           </li>
         </ul>
@@ -67,22 +67,22 @@
       <li>
         <h3 class="menuToggle"><i class="fa fa-retweet"></i> Billing Application <i class="fa fa-angle-down right"></i></h3>
         <ul class="menuList" style="display: none;">
-          <li class="{% if page.title == 'Managing customers' %}current{% endif %}">
+          <li class="{% if page.title contains 'Managing Customers' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/billing-managing-customers/">Managing customers</a>
           </li>
-          <li class="{% if page.title == 'Tracking assets' %}current{% endif %}">
+          <li class="{% if page.title contains 'Tracking Assets' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/billing-tracking-assets/">Tracking assets</a>
           </li>
-          <li class="{% if page.title == 'Creating contracts' %}current{% endif %}">
+          <li class="{% if page.title contains 'Creating Contracts' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/billing-creating-contracts/">Creating contracts</a>
           </li>
-          <li class="{% if page.title == 'Billings and transactions' %}current{% endif %}">
+          <li class="{% if page.title contains 'Billings And Transactions' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/billing-billings-and-transactions/">Billings and transactions</a>
           </li>
-          <li class="{% if page.title == 'Generating invoices' %}current{% endif %}">
+          <li class="{% if page.title contains 'Generating Invoices' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/billing-generating-invoices/">Generating invoices</a>
           </li>
-          <li class="{% if page.title == 'Service and finance agents' %}current{% endif %}">
+          <li class="{% if page.title contains 'Service And Finance Agents' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/billing-service-and-finance-agents/">Service and finance agents</a>
           </li>
         </ul>
