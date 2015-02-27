@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Updating Contact details
+title: CRM - Updating Contact Details
 prev_section: crm-managing-contacts
 next_section: crm-tagging-contacts
 permalink: /docs/crm-updating-contact-details/
@@ -18,4 +18,3 @@ When viewing a business, select 'Edit Contact' from the dropdown in the toolbar,
 ## For Individuals
 
 When viewing a business, navigate to it's 'People' section to see a list of all the people related to that business. Select a person and you'll be taken to the edit person screen, which has mostly the same options as edit business. You can update the persons name, as well as add multiple addresses, phone numbers, or email addresses.
-

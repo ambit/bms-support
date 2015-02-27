@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Changing Your details
+title: Core - Changing Your Details
 prev_section: core-logging-in-and-out
 next_section: core-navigation-and-user-permissions
 permalink: /docs/core-changing-your-details/

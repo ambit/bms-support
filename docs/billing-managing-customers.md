@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Managing Customers
+title: Billing - Managing Customers
 prev_section: crm-creating-campaigns
 next_section: billing-tracking-assets
 permalink: /docs/billing-managing-customers/
@@ -18,7 +18,7 @@ The summary pane shows a summary of the customer you're viewing, as well as the 
 
 ## Contents Pane
 
-The contents pane is split into tabs – these are all the sections that describe the customer in detail. Selecting a link at the top of the contents pane will display the related tab in the area below. 
+The contents pane is split into tabs – these are all the sections that describe the customer in detail. Selecting a link at the top of the contents pane will display the related tab in the area below.
 
 All content tabs have a toolbar at the top which will display tools relevant to that section, as well as pagination (if necessary).
 

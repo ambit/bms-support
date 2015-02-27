@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Filters And Pagination
+title: Core - Filters And Pagination
 prev_section: core-navigation-and-user-permissions
 next_section: crm-finding-contacts
 permalink: /docs/core-filters-and-pagination/

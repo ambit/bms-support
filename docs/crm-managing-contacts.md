@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Managing Contacts
+title: CRM - Managing Contacts
 prev_section: crm-finding-contacts
 next_section: crm-updating-contact-details
 permalink: /docs/crm-managing-contacts/
@@ -21,7 +21,7 @@ The summary pane shows a summary of the contact you're viewing, as well as a few
 
 ## Contents Pane
 
-The contents pane is split into tabs – these are all the sections that describe the contact in detail. Selecting a button at the top of the contents pane will display the related tab in the area below. 
+The contents pane is split into tabs – these are all the sections that describe the contact in detail. Selecting a button at the top of the contents pane will display the related tab in the area below.
 
 All content tabs have a toolbar at the top which will display tools relevant to that section, as well as pagination (if necessary).
 

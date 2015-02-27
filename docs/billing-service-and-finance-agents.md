@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Service And Finance Agents
+title: Billing - Service And Finance Agents
 prev_section: billing-generating-invoices
 next_section: service-jobs-and-activities
 permalink: /docs/billing-service-and-finance-agents/

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Generating Invoices
+title: Service - Generating Invoices
 prev_section: service-agents-and-engineers
 permalink: /docs/service-generating-invoices/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Logging In And Out
+title: Core - Logging In And Out
 next_section: core-changing-your-details
 permalink: /docs/core-logging-in-and-out/
 ---

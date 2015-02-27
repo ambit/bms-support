@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Managing Customers
+title: Service - Managing Customers
 prev_section: service-raising-supply-orders
 next_section: service-tracking-assets
 permalink: /docs/service-managing-customers/
