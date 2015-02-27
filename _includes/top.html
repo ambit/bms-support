@@ -27,7 +27,7 @@
         });
       }
 
-      $('ul.menuList .current').parent().css("display", "block"));
+      $('ul.menuList .current').parent().show();
       $('.menuToggle').click(function(e){
         list = $(event.target).closest('li').find('ul.menuList');
         if ($(list).is(':hidden')) {
