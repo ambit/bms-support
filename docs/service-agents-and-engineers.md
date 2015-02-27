@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Service And Finance Agents
-prev_section: billing-generating-invoices
-next_section: service-jobs-and-activities
-permalink: /docs/billing-service-and-finance-agents/
+title: Agents And Engineers
+prev_section: service-tracking-assets
+next_section: service-generating-invoices
+permalink: /docs/service-agents-and-engineers/
 ---
 
 Agents can be classed as either Service or Finance businesses.

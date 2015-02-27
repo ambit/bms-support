@@ -87,13 +87,32 @@
           </li>
         </ul>
       </li>
-<!--
-    <h3>BILLING</h3>
-    <h3>STOCK</h3>
-    <h3>SERVICE</h3>
-    <h3>REPORTS</h3>
-    <h3>INTEGRATIONS</h3>
--->
+      <!-- <h3>STOCK</h3> -->
+      <li>
+        <h3 class="menuToggle"><i class="fa fa-wrench"></i> Service Application <i class="fa fa-angle-down right"></i></h3>
+        <ul class="menuList" style="display: none;">
+          <li class="{% if page.title == 'Jobs and activities' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/service-jobs-and-activities/">Jobs and activities</a>
+          </li>
+          <li class="{% if page.title == 'Raising supply orders' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/service-raising-supply-orders/">Raising supply orders</a>
+          </li>
+          <li class="{% if page.title == 'Managing customers' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/service-managing-customers/">Managing customers</a>
+          </li>
+          <li class="{% if page.title == 'Tracking assets' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/service-tracking-assets/">Tracking assets</a>
+          </li>
+          <li class="{% if page.title == 'Agents and engineers' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/service-agents-and-engineers/">Agents and engineers</a>
+          </li>
+          <li class="{% if page.title == 'Generating invoices' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/service-generating-invoices/">Generating invoices</a>
+          </li>
+        </ul>
+      </li>
+      <!-- <h3>EXTENSIONS</h3> -->
+      <!-- <h3>INTEGRATIONS</h3> -->
     </ul>
   </aside>
 </div>
