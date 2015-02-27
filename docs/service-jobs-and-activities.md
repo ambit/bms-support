@@ -52,9 +52,9 @@ The 'On Backorder' status can be set when an Activity is submitted that has prod
 
 Alternatively, there is a button on the Edit Activity form to 'Place Backorder'.
 
-### Submit Activity with Backorder
+**Submit Activity with Backorder**
 
-When an Activity is submitted that has products with a Required column that has a value greater than 0, then a number of things happen:</p>
+When an Activity is submitted that has products with a Required column that has a value greater than 0, then a number of things happen:
 
 1. A Draft 'Transfer' is created for the product in the Stock Module
 2. If the current activity status is 'Scheduled', 'In Transit', or 'Arrived', then a new duplicate Job Activity is created with it's status changed to 'On Backorder'.
