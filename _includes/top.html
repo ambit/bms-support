@@ -15,7 +15,7 @@
   <script src="{{ site.baseurl }}/js/modernizr-2.5.3.min.js"></script>
   <script>
     $(document).ready(function() {
-      
+
       var isInIframe = (window.location != window.parent.location) ? true : false;
       if (isInIframe) {
         $('a').click(function(e){
@@ -26,15 +26,16 @@
           }
         });
       }
-      
+
+      $('ul.menuList .current').parent().slideToggle('fast');
       $('.menuToggle').click(function(e){
         list = $(event.target).closest('li').find('ul.menuList');
-        if ($(list).is(':hidden')) { 
+        if ($(list).is(':hidden')) {
           $('ul.menuList:visible').slideToggle('fast');
         }
         list.slideToggle('fast');
       });
-      
+
     });
   </script>
 </head>
