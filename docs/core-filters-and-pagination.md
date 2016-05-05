@@ -15,11 +15,11 @@ When viewing lists of items in BMS, keep in mind that many of them are filtered.
 
 In the tool bar at the top of the list, an unfiltered list will appear like this:
 
-![Inactive Filter]({{ site.baseurl }}/img/general-inactive-filter.jpg)
+![Inactive Filter]({{ site.baseurl }}/img/core-inactive-filter.jpg)
 
 Whereas if the list is filtered, it looks more like:
 
-![Active Filter]({{ site.baseurl }}/img/general-active-filter.jpg)
+![Active Filter]({{ site.baseurl }}/img/core-active-filter.jpg)
 
 You can click on the Filter button (&nbsp;<span class="fa fa-filter">&nbsp;</span>) to bring up the filter options. The options here include:
 
@@ -31,6 +31,6 @@ You can click on the Filter button (&nbsp;<span class="fa fa-filter">&nbsp;</spa
 
 Most lists in BMS allow a maximum of 20 items (but this may vary as it is configurable by your BMS Administrator). If your list exceeds this it will be split up over multiple pages.
 
-![Pagination]({{ site.baseurl }}/img/general-pagination.jpg)
+![Pagination]({{ site.baseurl }}/img/core-pagination.jpg)
 
 To navigate through the pages of the list, you can click on the pagination buttons to the bottom right of the list.

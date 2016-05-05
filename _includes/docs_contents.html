@@ -19,7 +19,7 @@
     </ul>
     <ul>
       <li>
-        <h3 class="menuToggle"><i class="fa fa-globe"></i> Core Application <i class="fa fa-angle-down right"></i></h3>
+        <h3 class="menuToggle"><i class="fa fa-globe"></i> Core Features <i class="fa fa-angle-down right"></i></h3>
         <ul class="menuList" style="display: none;">
           <li class="{% if page.title contains 'Core - Logging In And Out' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/core-logging-in-and-out/">Logging in and out</a>
@@ -87,7 +87,23 @@
           </li>
         </ul>
       </li>
-      <!-- <h3>STOCK</h3> -->
+      <li>
+        <h3 class="menuToggle"><i class="fa fa-lock"></i> Stock Application <i class="fa fa-angle-down right"></i></h3>
+        <ul class="menuList" style="display: none;">
+          <li class="{% if page.title contains 'Core - Logging In And Out' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-logging-in-and-out/">Logging in and out</a>
+          </li>
+          <li class="{% if page.title contains 'Core - Changing Your Details' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-changing-your-details/">Changing your details</a>
+          </li>
+          <li class="{% if page.title contains 'Core - Navigation And User Permissions' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-navigation-and-user-permissions/">Navigation and user permissions</a>
+          </li>
+          <li class="{% if page.title contains 'Core - Filters And Pagination' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-filters-and-pagination/">Filters and pagination</a>
+          </li>
+        </ul>
+      </li>
       <li>
         <h3 class="menuToggle"><i class="fa fa-wrench"></i> Service Application <i class="fa fa-angle-down right"></i></h3>
         <ul class="menuList" style="display: none;">
@@ -108,6 +124,23 @@
           </li>
           <li class="{% if page.title contains 'Service - Generating Invoices' %}current{% endif %}">
             <a href="{{ site.baseurl }}/docs/service-generating-invoices/">Generating invoices</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <h3 class="menuToggle"><i class="fa fa-lock"></i> Admin Tools <i class="fa fa-angle-down right"></i></h3>
+        <ul class="menuList" style="display: none;">
+          <li class="{% if page.title contains 'Core - Logging In And Out' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-logging-in-and-out/">Logging in and out</a>
+          </li>
+          <li class="{% if page.title contains 'Core - Changing Your Details' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-changing-your-details/">Changing your details</a>
+          </li>
+          <li class="{% if page.title contains 'Core - Navigation And User Permissions' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-navigation-and-user-permissions/">Navigation and user permissions</a>
+          </li>
+          <li class="{% if page.title contains 'Core - Filters And Pagination' %}current{% endif %}">
+            <a href="{{ site.baseurl }}/docs/core-filters-and-pagination/">Filters and pagination</a>
           </li>
         </ul>
       </li>
