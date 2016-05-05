@@ -10,7 +10,7 @@ BMS is organised into applications, which are the core components of BMS. Each a
 
 ## Navigation Menu
 
-On the left side of your display is the navigation bar. You can access the different sections of the current application by selecting an icon in this menu, which then opens up a submenu for the section you selected.
+On the left side of your display is the navigation menu. You can access the different sections of the current application by selecting an icon in this menu, which then opens up a submenu for the section you selected.
 
 ![Navigation Menu]({{ site.baseurl }}/img/core-navigation-menu.jpg)
 
@@ -18,7 +18,7 @@ Within the submenu, you will see the name of the section you are in, with a list
 
 ## Application Menu
 
-You can access the different applications in BMS by selecting the select application icon in the top left of the menu bar. The submenu will then display a list of all applications you have access to. Selecting one of these options will take you to that applications landing page.
+You can access the different applications in BMS by selecting the 'select application' icon in the top left of the navigation menu. The submenu will then display a list of all applications you have access to. Selecting one of these options will take you to that applications landing page.
 
 ![Application Menu]({{ site.baseurl }}/img/core-application-menu.jpg)
 

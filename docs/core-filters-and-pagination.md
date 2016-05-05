@@ -25,7 +25,7 @@ You can click on the Filter button (&nbsp;<span class="fa fa-filter">&nbsp;</spa
 
 * Load Existing Filter - This option has a submenu of any saved filters for the current list, just select one to apply the filter.
 * Adjust Current Filter - This option allows you to add more attributes to the current filter. If no filter is applied, you can add the first attribute.
-* Save Current Filter - If you have a filter applied, you can shoose to save it for future use, after which it will appear in the Load Existing Filter submenu.
+* Save Current Filter - If you have a filter applied, you can choose to save it for future use, after which it will appear in the Load Existing Filter submenu.
 
 ## Pagination
 
