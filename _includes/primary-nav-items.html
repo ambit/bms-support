@@ -1,0 +1,12 @@
+<ul>
+  <li class="{% if page.overview %}current{% endif %}">
+    <a href="{{ site.baseurl }}/">Overview</a>
+  </li>
+  <li class="{% if page.url contains '/docs/' %}current{% endif %}">
+    <a href="{{ site.baseurl }}/docs/core-logging-in-and-out/">Documentation</a>
+  </li>
+  <li class="{% if page.author %}current{% endif %}">
+    <a href="{{ site.baseurl }}/news/">News</a>
+  </li>
+  <span class="tabFiller">&nbsp;</span>
+</ul>
