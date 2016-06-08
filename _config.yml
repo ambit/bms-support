@@ -1,6 +1,14 @@
 ---
 title: BMS Support
 timezone: Australia/Sydney
+
+# Where things are
+baseurl: http://help.bmserp.com
+source: .
+destination: ./_site
+layouts_dir: ./_layouts
+includes_dir: ./_includes
+
 collections:
   posts:
     title: Posts
@@ -20,4 +28,9 @@ defaults:
     type: pages
   values:
     layout: page
+
+# Conversion
+highlighter: rouge
+
+# Outputting
 permalink: pretty
