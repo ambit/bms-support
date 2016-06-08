@@ -1,6 +1,6 @@
 ---
 title: BMS Support
-timezone: Australia/Sydney
+timezone: UTC
 collections:
   posts:
     title: Posts
