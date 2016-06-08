@@ -1,7 +1,7 @@
 ---
-layout: news
 title: Release
-permalink: /news/release/
+permalink: "/news/release/"
+layout: news
 author: all
 ---
 

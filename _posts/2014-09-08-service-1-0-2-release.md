@@ -1,10 +1,11 @@
 ---
+title: Service 1.0.1 Release
+date: 2014-09-08 11:00:00 +10:00
+categories:
+- release
 layout: news_item
-title: "Service 1.0.1 Release"
-date: "2014-09-08 11:00:00 +1000"
 author: michaelmulligan
 version: Service 1.0.1
-categories: [release]
 ---
 
 The beta release of the Service application is out!

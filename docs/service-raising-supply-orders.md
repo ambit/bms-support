@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Service - Raising Supply Orders
+permalink: "/docs/service-raising-supply-orders/"
+layout: docs
 prev_section: service-jobs-and-activities
 next_section: service-managing-customers
-permalink: /docs/service-raising-supply-orders/
 ---
 
 A supply order can be raised in the Supplies tab if either a Customer on an Asset.

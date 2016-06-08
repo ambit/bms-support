@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Welcome to the BMS Help Centre
+layout: docs
 overview: true
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Billing - Managing Customers
+permalink: "/docs/billing-managing-customers/"
+layout: docs
 prev_section: crm-creating-campaigns
 next_section: billing-tracking-assets
-permalink: /docs/billing-managing-customers/
 ---
 
 The customer details page is split into two sections – the summary pane and the contents pane.

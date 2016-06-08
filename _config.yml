@@ -1,7 +1,23 @@
-baseurl:              http://help.bmserp.com
-source:               .
-destination:          ./_site
-layouts:              ./_layouts
-highlighter:          rouge
-relative_permalinks:  false
-permalink:            /news/:year/:month/:day/:title
+---
+title: BMS Support
+timezone: Australia/Sydney
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty

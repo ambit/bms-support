@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Billing - Service And Finance Agents
+permalink: "/docs/billing-service-and-finance-agents/"
+layout: docs
 prev_section: billing-generating-invoices
 next_section: stock-managing-warehouses
-permalink: /docs/billing-service-and-finance-agents/
 ---
 
 Agents can be classed as either Service or Finance businesses.

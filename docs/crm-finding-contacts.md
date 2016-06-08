@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: CRM - Finding Contacts
+permalink: "/docs/crm-finding-contacts/"
+layout: docs
 prev_section: core-filters-and-pagination
 next_section: crm-managing-contacts
-permalink: /docs/crm-finding-contacts/
 ---
 
 A contact is any business that is recorded in the CRM database.
