@@ -20,10 +20,4 @@ defaults:
     type: pages
   values:
     layout: page
-baseurl: http://help.bmserp.com
-source: "."
-destination: "./_site"
-layouts_dir: "./_layouts"
-includes_dir: "./_includes"
-highlighter: rouge
 permalink: pretty
