@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Billing - Billings And Transactions
+permalink: "/docs/billing-billings-and-transactions/"
+layout: docs
 prev_section: billing-creating-contracts
 next_section: billing-generating-invoices
-permalink: /docs/billing-billings-and-transactions/
 ---
 
 ## Billings Index

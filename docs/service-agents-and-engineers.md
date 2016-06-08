@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Service - Agents And Engineers
+permalink: "/docs/service-agents-and-engineers/"
+layout: docs
 prev_section: service-tracking-assets
 next_section: service-generating-invoices
-permalink: /docs/service-agents-and-engineers/
 ---
 
 Agents can be classed as either Service or Finance businesses.

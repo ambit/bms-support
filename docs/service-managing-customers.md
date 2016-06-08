@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Service - Managing Customers
+permalink: "/docs/service-managing-customers/"
+layout: docs
 prev_section: service-raising-supply-orders
 next_section: service-tracking-assets
-permalink: /docs/service-managing-customers/
 ---
 
 The customer details page is split into two sections – the summary pane and the contents pane.

@@ -1,8 +1,8 @@
 ---
-layout: docs
 title: Core - Logging In And Out
+permalink: "/docs/core-logging-in-and-out/"
+layout: docs
 next_section: core-changing-your-details
-permalink: /docs/core-logging-in-and-out/
 ---
 
 ## Logging in

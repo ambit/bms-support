@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Core - Navigation And User Permissions
+permalink: "/docs/core-navigation-and-user-permissions/"
+layout: docs
 prev_section: core-changing-your-details
 next_section: core-filters-and-pagination
-permalink: /docs/core-navigation-and-user-permissions/
 ---
 
 BMS is organised into applications, which are the core components of BMS. Each application is then split into different functional sections.

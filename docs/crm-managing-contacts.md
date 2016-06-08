@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: CRM - Managing Contacts
+permalink: "/docs/crm-managing-contacts/"
+layout: docs
 prev_section: crm-finding-contacts
 next_section: crm-updating-contact-details
-permalink: /docs/crm-managing-contacts/
 ---
 
 The contact screen is where the majority of your interactions with BMS CRM take place. You should be looking at the contact screen whenever you're interacting with a contact, and adding as much information as possible.

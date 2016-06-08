@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Billing - Tracking Assets
+permalink: "/docs/billing-tracking-assets/"
+layout: docs
 prev_section: billing-managing-customers
 next_section: billing-creating-contracts
-permalink: /docs/billing-tracking-assets/
 ---
 
 The assets index is a grid of assets where the 'Serial No' is a link to the actual asset, and the 'Owner' is a link to the Customer. We also display the 'Brand', 'Product Code' and  'Site'.

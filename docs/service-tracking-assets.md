@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Service - Tracking Assets
+permalink: "/docs/service-tracking-assets/"
+layout: docs
 prev_section: service-managing-customers
 next_section: service-agents-and-engineers
-permalink: /docs/service-tracking-assets/
 ---
 
 Establish Assets and track their Jobs, Meters, Parts and Supplies.

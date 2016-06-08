@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Core - Filters And Pagination
+permalink: "/docs/core-filters-and-pagination/"
+layout: docs
 prev_section: core-navigation-and-user-permissions
 next_section: crm-finding-contacts
-permalink: /docs/core-filters-and-pagination/
 ---
 
 ## Is this list being filtered?

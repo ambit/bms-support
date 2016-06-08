@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: CRM - Updating Contact Details
+permalink: "/docs/crm-updating-contact-details/"
+layout: docs
 prev_section: crm-managing-contacts
 next_section: crm-tagging-contacts
-permalink: /docs/crm-updating-contact-details/
 ---
 
 <div class="note">

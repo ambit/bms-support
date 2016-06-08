@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: Service - Jobs And Activities
+permalink: "/docs/service-jobs-and-activities/"
+layout: docs
 prev_section: stock-maintaining-businesses
 next_section: service-raising-supply-orders
-permalink: /docs/service-jobs-and-activities/
 ---
 
 Create Jobs and track Job Activities through Labour, Parts and Supplies.
