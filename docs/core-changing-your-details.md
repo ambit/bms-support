@@ -1,12 +1,12 @@
 ---
 title: Core - Changing Your Details
 permalink: "/docs/core-changing-your-details/"
-layout: docs
 prev_section: core-logging-in-and-out
 next_section: core-navigation-and-user-permissions
+layout: docs
 ---
 
-Should you ever need to change your user details (such as changing your Name, Email Address, or Password) simply select the account icon (&nbsp;<span class="fa fa-user">&nbsp;</span>) in the bottom left of the menu bar, then select 'Account Settings' from the submenu.
+Should you ever need to change your user details (such as changing your Name, Email Address, or Password) simply select the account icon ( <span class="fa fa-user"></span> ) in the bottom left of the menu bar, then select 'Account Settings' from the submenu.
 
 On the resulting page you can change your details as you see fit. Press 'Update' to confirm the changes.
 
