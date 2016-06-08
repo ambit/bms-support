@@ -1,6 +1,7 @@
 ---
 title: CRM - Managing Contacts
 permalink: "/docs/crm-managing-contacts/"
+position: 17
 layout: docs
 prev_section: crm-finding-contacts
 next_section: crm-updating-contact-details
