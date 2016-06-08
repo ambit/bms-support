@@ -1,7 +1,7 @@
 ---
 title: Core - Navigation And User Permissions
 permalink: "/docs/core-navigation-and-user-permissions/"
-position: 14
+position: 16
 layout: docs
 prev_section: core-changing-your-details
 next_section: core-filters-and-pagination
