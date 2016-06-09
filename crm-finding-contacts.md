@@ -1,7 +1,7 @@
 ---
 title: CRM - Finding Contacts
 permalink: "/docs/crm-finding-contacts/"
-position: 18
+position: 5
 layout: docs
 prev_section: core-filters-and-pagination
 next_section: crm-managing-contacts
