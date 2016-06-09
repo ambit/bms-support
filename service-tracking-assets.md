@@ -1,7 +1,7 @@
 ---
 title: Service - Tracking Assets
 permalink: "/docs/service-tracking-assets/"
-position: 35
+position: 27
 layout: docs
 prev_section: service-managing-customers
 next_section: service-agents-and-engineers
