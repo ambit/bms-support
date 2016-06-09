@@ -1,7 +1,7 @@
 ---
 title: Release
 permalink: "/news/release/"
-position: 24
+position: 25
 layout: news
 author: all
 ---
