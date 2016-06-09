@@ -1,7 +1,7 @@
 ---
 title: Service - Jobs And Activities
 permalink: "/docs/service-jobs-and-activities/"
-position: 29
+position: 30
 layout: docs
 prev_section: stock-maintaining-businesses
 next_section: service-raising-supply-orders
