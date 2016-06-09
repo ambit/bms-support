@@ -1,7 +1,7 @@
 ---
 title: Billing - Generating Invoices
 permalink: "/docs/billing-generating-invoices/"
-position: 22
+position: 23
 layout: docs
 prev_section: billing-billings-and-transactions
 next_section: billing-service-and-finance-agents
