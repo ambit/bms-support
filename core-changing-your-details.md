@@ -1,7 +1,7 @@
 ---
 title: Core - Changing Your Details
 permalink: "/docs/core-changing-your-details/"
-position: 14
+position: 2
 prev_section: core-logging-in-and-out
 next_section: core-navigation-and-user-permissions
 layout: docs
