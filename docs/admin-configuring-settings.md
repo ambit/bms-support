@@ -1,7 +1,7 @@
 ---
 title: Admin - Configuring Settings
 permalink: "/docs/admin-configuring-settings/"
-position: 7
+position: 8
 layout: docs
 prev_section: admin-entity-and-document-settings
 next_section: admin-background-jobs
