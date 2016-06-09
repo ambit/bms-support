@@ -1,7 +1,7 @@
 ---
 title: Service - Raising Supply Orders
 permalink: "/docs/service-raising-supply-orders/"
-position: 34
+position: 25
 layout: docs
 prev_section: service-jobs-and-activities
 next_section: service-managing-customers
