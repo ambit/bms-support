@@ -1,7 +1,7 @@
 ---
 title: Billing - Billings And Transactions
 permalink: "/docs/billing-billings-and-transactions/"
-position: 7
+position: 8
 layout: docs
 prev_section: billing-creating-contracts
 next_section: billing-generating-invoices

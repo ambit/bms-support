@@ -1,7 +1,7 @@
 ---
 title: Billing - Managing Customers
 permalink: "/docs/billing-managing-customers/"
-position: 10
+position: 11
 layout: docs
 prev_section: crm-creating-campaigns
 next_section: billing-tracking-assets
