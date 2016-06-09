@@ -1,7 +1,7 @@
 ---
 title: Admin - Background Jobs
 permalink: "/docs/admin-background-jobs/"
-position: 14
+position: 15
 layout: docs
 prev_section: admin-configuring-settings
 ---
