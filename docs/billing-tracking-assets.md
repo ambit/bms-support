@@ -1,7 +1,7 @@
 ---
 title: Billing - Tracking Assets
 permalink: "/docs/billing-tracking-assets/"
-position: 21
+position: 22
 layout: docs
 prev_section: billing-managing-customers
 next_section: billing-creating-contracts
