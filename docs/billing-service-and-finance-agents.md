@@ -1,7 +1,7 @@
 ---
 title: Billing - Service And Finance Agents
 permalink: "/docs/billing-service-and-finance-agents/"
-position: 19
+position: 20
 layout: docs
 prev_section: billing-generating-invoices
 next_section: stock-managing-warehouses
