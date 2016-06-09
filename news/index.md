@@ -1,7 +1,7 @@
 ---
 title: News
 permalink: "/news/"
-position: 26
+position: 27
 layout: news
 author: all
 ---
