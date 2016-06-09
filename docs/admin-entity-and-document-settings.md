@@ -1,7 +1,7 @@
 ---
 title: Admin - Entity And Document Settings
 permalink: "/docs/admin-entity-and-document-settings/"
-position: 24
+position: 25
 layout: docs
 prev_section: admin-creating-user-accounts
 next_section: admin-configuring-settings
