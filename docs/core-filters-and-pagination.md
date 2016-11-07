@@ -1,6 +1,7 @@
 ---
 title: Core - Filters And Pagination
 permalink: "/docs/core-filters-and-pagination/"
+position: 4
 layout: docs
 prev_section: core-navigation-and-user-permissions
 next_section: crm-finding-contacts

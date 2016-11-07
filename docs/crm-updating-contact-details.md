@@ -1,6 +1,7 @@
 ---
 title: CRM - Updating Contact Details
 permalink: "/docs/crm-updating-contact-details/"
+position: 7
 layout: docs
 prev_section: crm-managing-contacts
 next_section: crm-tagging-contacts

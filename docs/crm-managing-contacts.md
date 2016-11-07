@@ -1,6 +1,7 @@
 ---
 title: CRM - Managing Contacts
 permalink: "/docs/crm-managing-contacts/"
+position: 6
 layout: docs
 prev_section: crm-finding-contacts
 next_section: crm-updating-contact-details
@@ -45,7 +46,7 @@ You can complete a task, edit the tasks details (assuming you have permission to
 
 ## Opportunities
 
-TODO
+Opportunities are a way to manage your deal pipeline, by tracking the status of an 'Opportunity' with a Contact. Task, Activities and Comments can be attributed to an Opportunity.
 
 ## People
 
