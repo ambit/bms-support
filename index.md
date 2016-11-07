@@ -13,7 +13,7 @@ Whilst in the [News]({{ site.baseurl }}/news/) section, we have information on a
 
 ## So what is BMS, exactly?
 
-BMS is a unified suite of applications that aims to provide a 'single source of truth' for your valuable customer data.
+BMS is a unified suite of applications, commonly called Enterprise Resource Planning (ERP) software, that aims to provide a 'single source of truth' for your valuable customer data.
 
 It's configured as a hosted Software-as-a-Service (SaaS) solution to take advantage of the redundancy, scalability and efficiency inherent in managed, cloud based software. For complete accessibility, the interface is optimised to work seamlessly across all manner of device sizes (Desktop, Tablet, Mobile) via responsive design principles.
 
