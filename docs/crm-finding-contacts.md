@@ -11,11 +11,9 @@ A contact is any business that is recorded in the CRM database.
 
 In this section, we'll go through a couple of the most common ways of navigating to a specific contact.
 
-By clicking on the contacts icon in the navigation menu, the contacts submenu will appear. From here you can choose to search for a contact, add a new contact, or view the contact list.
-
 ## The Contact Index
 
-The contact index is a list of all the contacts in the system. By clicking on an item in the index you will be directed to the details page for that contact.
+By clicking on the contacts icon in the navigation menu, the contacts index will appear. The contact index is a list of all the contacts in the system. Clicking on a business name in the index you will be directed to the details page for that contact.
 
 ## Contact Search
 

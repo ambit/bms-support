@@ -14,7 +14,13 @@ next_section: crm-tagging-contacts
 
 ## For Businesses
 
-When viewing a business, select 'Edit Contact' from the dropdown in the toolbar, situated on the summary pane. This will take you to the edit contact screen, where you can change most of the attributes of the Business. You can update the business name, specify optional details such as sales area or trading name, as well as add multiple addresses, phone numbers, email addresses, and identifiers.
+When viewing a business, select 'Edit Contact' from the dropdown in the toolbar, situated on the summary pane. This will take you to the edit contact screen, where you can change most of the attributes of the Business.
+
+As the business contact information is consistent throughout the application, and not just in the CRM, you first need to 'Unlock' the contact for editing. Unlocking the business requires you to acknowledge that any changes you make will effect all the businesses related objects.
+
+![Navigation Menu]({{ site.baseurl }}/img/crm-contact-unlock-edit.jpg)
+
+You can update the business name, specify optional details such as sales area or trading name, as well as add multiple addresses, phone numbers, email addresses, and identifiers.
 
 ## For Individuals
 
