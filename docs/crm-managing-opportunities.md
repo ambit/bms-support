@@ -31,7 +31,7 @@ New Opportunities are created from within the Opportunity tab of a Contact. On c
   <h5>The only required field is the Opportunity Name.</h5>
 </div>
 
-## Opportunity status
+## Opportunity Status
 
 The status of the opportunity can be controlled from either the opportunities index, of by clicking on the menu button in the toolbar of the opportunity.
 
@@ -40,7 +40,7 @@ The status of the opportunity can be controlled from either the opportunities in
 The main statuses are a progression of the different stages in the sales process - Lead, Pitching, Quoting, Closing, Won. Additional statuses are Paused, and Lost.
 
 
-## Opportunity Activities and Tasks
+## Opportunity Activities And Tasks
 
 Any Activities or Tasks you make from within an Opportunity will maintain their context. So they will be accessible from both the top level Activities and Tasks indexes, as well as from within the Opportunity itself.
 
