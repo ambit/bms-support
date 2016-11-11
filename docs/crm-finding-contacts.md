@@ -38,13 +38,13 @@ Another quick way to narrow the list is to apply a text filter on a column in th
 
 ![Contacts Find]({{ site.baseurl }}/img/crm-contact-find.jpg)
 
-## Prev and Next Buttons
+## Prev and Next Contact
 
-When viewing a Contact, you can navigate to the previous or next contacts (relative to the contact index you just accessed it from) by clicking on the Prev Contact or Next Contact buttons in the contact's Summary Pane. This will take you to the previous/next sequential contact in the contact list.
+When viewing a Contact, you can navigate to the previous or next contacts (relative to the contact index you just accessed it from) by clicking on the Prev Contact or Next Contact links in the contact's Summary Pane. This will take you to the previous/next sequential contact in the contact list.
 
-![Prev and Next Buttons]({{ site.baseurl }}/img/crm-contact-prev-next.jpg)
+![Prev and Next Contact]({{ site.baseurl }}/img/crm-contact-prev-next.jpg)
 
 <div class="note info">
   <span class="fa fa-star fa-lg">&nbsp;</span>
-  <h5>The previous and next buttons take into account any filtering you may have performed on the contact index, and use the filtered list as the collection that it is moving sequentially through.</h5>
+  <h5>The previous and next links take into account any filtering you may have performed on the contact index, and use the filtered list as the collection that it is moving sequentially through.</h5>
 </div>
