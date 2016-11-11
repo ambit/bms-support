@@ -29,6 +29,6 @@ Once you have attached a number of contacts to a campaign, you can generate bulk
 
 First you apply a filter to get the specific subset of attached contacts that you want to generate a specific task (for a specific user), then you select all the contacts and click 'Generate tasks for selected'.
 
-![Campaign Task]({{ site.baseurl }}/img/crm-campaign-task.jpg)
+![Campaign Tasks]({{ site.baseurl }}/img/crm-campaign-tasks.jpg)
 
 Alternatively, you can not apply a filter and just manually select groups of contacts and generate a specific task for each group you select.
