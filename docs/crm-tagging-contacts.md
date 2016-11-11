@@ -40,7 +40,7 @@ Private (blue) tags are a little different to the other types of tag, as they ar
 
 <div class="note info">
   <span class="fa fa-star fa-lg">&nbsp;</span>
-  <h5>Administrators are the only exception to viewing private tags, and can see all the tags applied to a contact.</h5>
+  <h5>Administrators are an exception to viewing private tags, and can see all the tags applied to a contact.</h5>
 </div>
 
 ## Bulk Attach/Detach Tags
