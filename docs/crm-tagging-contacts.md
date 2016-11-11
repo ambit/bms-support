@@ -34,12 +34,12 @@ Another way to use the type tag, instead of using an industry classification, is
 Private (blue) tags are a little different to the other types of tag, as they are only viewable (and filterable) by the person who added that tag.
 
 <div class="note info">
-  <span class="fa fa-star fa-lg">&nbsp;</span>
+  <span class="fa fa-quote-left fa-lg">&nbsp;</span>
   <h5>A unique tag prefix is applied to the private tag, which is set in the users edit page in the admin section.</h5>
 </div>
 
 <div class="note info">
-  <span class="fa fa-star fa-lg">&nbsp;</span>
+  <span class="fa fa-quote-left fa-lg">&nbsp;</span>
   <h5>Administrators are an exception to viewing private tags, and can see all the tags applied to a contact.</h5>
 </div>
 

@@ -8,7 +8,7 @@ next_section: crm-working-with-tasks
 ---
 
 <div class="note info">
-  <span class="fa fa-star fa-lg">&nbsp;</span>
+  <span class="fa fa-quote-left fa-lg">&nbsp;</span>
   <h5>All interactions with a contact are recorded as Activities.</h5>
 </div>
 

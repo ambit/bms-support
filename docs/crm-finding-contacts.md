@@ -45,6 +45,6 @@ When viewing a Contact, you can navigate to the previous or next contacts (relat
 ![Prev and Next Contact]({{ site.baseurl }}/img/crm-contact-prev-next.jpg)
 
 <div class="note info">
-  <span class="fa fa-star fa-lg">&nbsp;</span>
+  <span class="fa fa-quote-left fa-lg">&nbsp;</span>
   <h5>The previous and next links take into account any filtering you may have performed on the contact index, and use the filtered list as the collection that it is moving sequentially through.</h5>
 </div>
