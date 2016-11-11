@@ -23,7 +23,7 @@ At the top of the menu bar on the left you will find contact search. If you have
 
 <div class="note">
   <span class="fa fa-star fa-lg">&nbsp;</span>
-  <h5>If you know it, you would ideally search by contact name, however other fields such as postcode or address will work.</h5>
+  <h5>Ideally search by contact name, however other fields such as postcode or address will work.</h5>
 </div>
 
 ## Contacts Filter
@@ -44,4 +44,7 @@ When viewing a Contact, you can navigate to the previous or next contacts (relat
 
 ![Prev and Next Buttons]({{ site.baseurl }}/img/crm-contact-prev-next.jpg)
 
-The previous and next buttons take into account any filtering you may have performed on the contact index, and use the filtered list as the collection that it is moving sequentially through.
+<div class="note info">
+  <span class="fa fa-star fa-lg">&nbsp;</span>
+  <h5>The previous and next buttons take into account any filtering you may have performed on the contact index, and use the filtered list as the collection that it is moving sequentially through.</h5>
+</div>
