@@ -17,7 +17,7 @@ The summary pane on the left includes the 'Product Name' and 'Serial Number' in 
 
 The readings tab is a grid that lists all the historic meter readings for this asset. It includes fields for the 'Type' of reading, the 'User' who inputed it, a 'Source Reference', 'Sourced On' date, the 'Meter' and it's 'Reading'.
 
-**New Reading**
+## New Reading
 
 The 'New reading' action button will display a form at the top of the page where you can input the 'Sourced On' date, optionally add a 'Source Reference' as well as input the individual readings for any meters on the asset.
 
@@ -29,6 +29,6 @@ The 'New reading' action button will display a form at the top of the page where
 
 ## New Assets
 
-Within the billing application, Assets can only be created from within a customer or contract page (the 'New Asset' form is the same in both locations).
+Within the billing application, Assets can only be created from within a customer or contract (the 'New Asset' form is the same in both locations).
 
 Selecting 'New Asset' will display a new asset form at the top of the page where you can enter the asset details. After selecting an existing 'Product Code', it will automatically populate the fields for 'Brand', 'Description' and 'Product Class'. Site displays a list of sites (as seen in the sites tab). The 'Serial No' is a unique identifier for the asset, whilst the 'Cost Centre' is an un-validated text field.
