@@ -28,7 +28,7 @@ At the top of the menu bar on the left you will find contact search. If you have
 
 ## Contacts Filter
 
-As the contacts index can be very large, you will probably want to use the filter to narrow it down a bit. See [Filters and Pagination](../filters-and-pagination/) for more information.
+As the contacts index can be very large, you will probably want to use the filter to narrow it down a bit. See [Filters and Pagination](../core-filters-and-pagination/) for more information.
 
 ![Contacts Filter]({{ site.baseurl }}/img/crm-contact-filter.jpg)
 
